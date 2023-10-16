@@ -1,0 +1,1865 @@
+{
+	"border": "Separator",
+	"background": "Background",
+	"dublicated abs widget": "This exact widget is already present on the page.",
+	"file name": "File name",
+	"file size": "File size",
+	"click to upload": "Click to upload",
+	"fileSizes": {
+		"kb": "KB",
+		"mb": "MB"
+	},
+	"units": {
+		"px": "px"
+	},
+	"sizeValues": {
+		"small": "Small",
+		"medium": "Medium",
+		"middle": "Medium",
+		"large": "Large"
+	},
+	"ulcraft site constructor": "uKit – Website Builder",
+	"constructor": "Builder",
+	"backups title": "Backups",
+	"backups not exist": "You have no backups created.",
+	"backups add first": "Make the first manual backup copy",
+	"backup user filter": "Show only manual backups",
+	"backup create": "Create a backup",
+	"backup created": "Backup created successfully",
+	"backup title error": "The length of a backup name must be within 3-32 characters.",
+	"backup limit error": "Error. The maximum number of backups is %1.",
+	"backup edit": "Backup name",
+	"backup title": "Backup name",
+	"backup title updated": "Name updated successfully",
+	"backup title length error": "The backup name is too short.",
+	"backup removed": "Backup deleted successfully",
+	"backup user": "Manual backup",
+	"backup period": "Automatic backup",
+	"backup publish": "Publication backup",
+	"backup grant": "Temporary access backup",
+	"backup restore": "Restore",
+	"backup restore confirm text": "Are you sure you want to restore the website backup?",
+	"backup restore confirm title": "Restoring the website backup",
+	"backup remove": "Delete backup",
+	"backup remove confirm text": "Are you sure you want to delete the backup?",
+	"backup current state": "Current view",
+	"backup limit exceed": "The limit on manual backups has been exceeded.",
+	"backup on create new removed oldest": "When creating a new backup, the backup dated %1 will be deleted.",
+	"backup restored": "Website restored successfully from the backup",
+	"adblock detected": "You are probably using programs that block ads on websites and they may affect the way our builder works. We don't show any ads in the builder, so we recommend disabling your ad blocker or whitelisting %1.",
+	"upload more": "View more",
+	"dashboard": "Dashboard",
+	"undo": "Undo",
+	"redo": "Redo",
+	"publish": "Publish",
+	"help": "Help",
+	"unpublish": "Unpublish",
+	"published": "Published",
+	"error during site publish": "An error occurred when publishing the website",
+	"publication schedule": "Schedule the post",
+	"publication schedule short": "Schedule",
+	"cancel": "Cancel",
+	"publication date": "MMMM DD, YYYY \\at h:mm A",
+	"edit publication": "Edit",
+	"plain time": "Post will be published on",
+	"post is published": "The post has been published",
+	"changes in post fall directly on the site": "Post changes will be published to the website automatically",
+	"you can not plan the last publication": "You cannot schedule the post in the past",
+	"site address": "Website address",
+	"last published on DATE": "Last published on %1",
+	"publication not available": "To publish your site, you need to buy a plan",
+	"publish site and talk about": "Publish your website, let other people know about it!",
+	"publish again tooltip": "Made changes to your website? Publish it now, so your visitors can see them.",
+	"congratulations": "Congratulations",
+	"your site has been published": "Your website has been published!",
+	"close": "Close",
+	"do not show again": "Do not show again",
+	"press left button and move widget to page": "Drag the widget onto the site, holding the left mouse button",
+	"site preview": "Preview",
+	"preview": "Preview",
+	"empty blocks": "Blank blocks",
+	"block title": "Block name",
+	"there is no blocks in this category": "There are no blocks in this category",
+	"borders detached": "Not attached to the edges of the screen",
+	"borders attached": "Attached to the edges of the screen",
+	"block with container": "Container",
+	"block fluid": "Fluid",
+	"block descriptions": {
+		"block-empty": {
+			"title": "Container block",
+			"description": "<p>The content doesn't stretch to fit the width of a screen.</p><p>This block type is recommended for Text, Card, Heading, and other text widgets.</p>"
+		},
+		"block-empty-fluid": {
+			"title": "Fluid block",
+			"description": "<p>The block adjusts to the width of a screen.</p><p>Use this block type if you want Slider or Gallery to fit the screen. For text widgets use blocks with a container.</p>"
+		}
+	},
+	"create block": "Create block",
+	"crop": "Crop",
+	"Drag elements or block from the left panel": "Drag Widgets or Blocks from the left panel onto the page.",
+	"Drag elements from the left panel": "Drag widgets from the left panel onto the page.",
+	"news": "News",
+	"add article": "Add post",
+	"arrow": "Arrows",
+	"pages": "Pages",
+	"site pages": "Site Pages",
+	"there are not site pages": "No pages",
+	"add page": "Add page",
+	"add orderForm": "Add window",
+	"general pages": "General",
+	"special pages": "System",
+	"orderForm pages": "Pop-up windows",
+	"orderForm order saved successfully": "Order of pop-up windows has been successfully saved",
+	"shop pages": "Store",
+	"page __404 desc": "The 404 error occurs when the page does not exist, or the address has been entered incorrectly",
+	"page __privacy_policy desc": "The Privacy Policy page of your website. Add a link to it in the Menu",
+	"page __user_agreement desc": "The User Agreement page of your website. Add a link to it in the Menu",
+	"page settings": "Page settings",
+	"page not found": "Page not found",
+	"page not found and is probaly removed": "The page you are trying to open does not exist. You may have deleted it.",
+	"cannot go to page": "The URL cannot be opened",
+	"not valid text, please not use html": "Invalid data. Please don't use HTML.",
+	"link is probably external": "The menu item probably links to an external page",
+	"do you really want to remove the page": "Are you sure you want to delete the page?",
+	"remove the page": "Delete page",
+	"This action can not be undo": "This action cannot be undone",
+	"common": "General",
+	"SEO": "SEO",
+	"header": "Title",
+	"namePage": "Title",
+	"shown in browser header": "This will be displayed in the title bar of the browser.",
+	"address cpu": "Search engine friendly URL",
+	"shown in browser header example": "It is displayed in the address bar of the browser. For example, \"page\".",
+	"description": "Description",
+	"description help": "The Description meta tag. Is used to describe the page in the search engines",
+	"title tag": "Title meta tag",
+	"seo settings": {
+		"friendly URL description": "Displayed in the address bar of the browser",
+		"tag title": "Title meta tag",
+		"tag title help": "Title expressing the page's main idea",
+		"meta description": "Description meta tag",
+		"meta description help": "Describe what this page is about in a couple of sentences",
+		"meta keywords": "Keywords meta tag",
+		"meta keywords help": "Enter 2-3 keywords, comma separated",
+		"tag image": "Image meta tag",
+		"tag image help": "Choose an image that'll be set as the page's preview image for sharing in messengers and social media",
+		"tag image help other and common": "To change the image for this page, disable the \"Set the selected image as default for all site pages\" option in the Home page settings",
+		"tag image switcher label": "Set the selected image as default for all site pages",
+		"tag image switcher hint": "When this option is enabled, the chosen image will be applied as a preview thumbnail to all site pages, except News pages on the blog",
+		"tag image hint index": "The image will show as a preview thumbnail when the link to this page is shared on social media",
+		"tag image hint others": "The image will show as a preview thumbnail when the link to this page is shared on social media. But if the \"Set the selected image as default for all site pages\" option is activated in the Home page settings, you won't be able to set another image for this page",
+		"tag image button clear image": "Remove image"
+	},
+	"keywords": "Keywords",
+	"disallow page indexation title": "Page indexing",
+	"disallow page indexation": "Hide the page from indexing",
+	"disallow robots txt": "An individual robots.txt file has been activated for your website. You can disable search engine indexing of a page on your own by going to Settings&nbsp;>&nbsp;<a href=\"%1\" target=\"_blank\">Robots.txt</a>",
+	"meta keywords help": "The Keywords meta tag.  Contains a list of keywords for search engines",
+	"new page": "New page",
+	"new orderForm": "New window",
+	"new page type": "Select a page type",
+	"Page created successfully": "Page successfully created",
+	"Changes pages canceled": "Page modifications undone",
+	"Page Settings saved": "Page settings saved",
+	"Revert changes": "Redo modifications",
+	"new page settings": "New page settings",
+	"number of columns": "Number of columns",
+	"page": "Page",
+	"portfolio": "Portfolio",
+	"thin settings": "Advanced settings",
+	"settings image": "Image settings",
+	"color": "Color",
+	"colors": "Solid color",
+	"opacity": "Opacity",
+	"image": "Image",
+	"map": "Map",
+	"structure": "Layout",
+	"block": "Block",
+	"hidden block": "Hidden block",
+	"block404": "404 page",
+	"empty block handler name": "Blank block",
+	"container": "Container",
+	"container with padding": "With padding for widgets",
+	"container without padding": "Without padding for widgets",
+	"widget adjustment height": "Align cards by height",
+	"widgets settings": "Widgets",
+	"fluid block": "Fluid",
+	"alt image": "Image alt",
+	"color scheme": "Color scheme",
+	"addNew": "Create custom scheme",
+	"site background": "Site background",
+	"background color selection": "Choose color",
+	"background image selection": "Choose image",
+	"apply the background for current page": "Apply the background only to the current page",
+	"my color schemes": "Custom schemes",
+	"create own color scheme": "Create custom scheme",
+	"create color scheme": "Create scheme",
+	"preview color": "Preview color",
+	"Select the animation style for widgets": "Choose the animation style for\nwidgets to appear on the site",
+	"basic": "Basic",
+	"special": "Content",
+	"content": "Content",
+	"ecommerce": "Online Store",
+	"mmedia": "Media",
+	"social": "Social",
+	"contacts": "Contact",
+	"layout": "Structure",
+	"external": "Outer",
+	"old": "Old widgets",
+	"position": "Position",
+	"align": "Alignment",
+	"video loop": "Loop",
+	"video-settings": "Video settings",
+	"zooming": "Zoom",
+	"speed": "Speed",
+	"repeat": "Repetition",
+	"blur": "Blur",
+	"degree of blurring": "Adjust blur",
+	"grayscale video": "Black-and-white",
+	"backgroundText1": "Text color 1 ",
+	"backgroundText2": "Text color 2 ",
+	"backgroundText3": "Text color 3 ",
+	"backgroundColor": "Background color",
+	"background color": "Background color",
+	"parallax effect": "Parallax",
+	"show example": "Show example",
+	"hide example": "Hide example",
+	"align button visual cecutient": "Alignment",
+	"background color cecutient line": "Strip color",
+	"select parallax": "Parallax",
+	"select background fixed": "Fixed background",
+	"fixed background on scroll": "Fix when scrolling",
+	"setting background": "Settings",
+	"select parallax off": "Parallax off",
+	"parallax notes": "Creates a perception of depth by animating the background",
+	"parallax speed": "Scrolling speed",
+	"parallax zoom": "Image height",
+	"fill width": "Fit the image to screen width",
+	"tile": "Repeat image across the screen",
+	"fill width 2": "Fill",
+	"tile 2": "Tile",
+	"customize element in left panel": "Customize the widget<br>on the left panel",
+	"info header not add elements": "Drag lower, widgets cannot be added to the header.",
+	"info footer not add elements": "Drag higher, widgets cannot be added to the footer.",
+	"image library": "Image library",
+	"uploaded": "Uploading ",
+	"thematic": "Themed",
+	"from social apps": "Social",
+	"images": "Images",
+	"under image": "Under the image",
+	"there are not albums with images": "There are no albums with images",
+	"there are not images in this album": "There are no images in this album",
+	"load more": "Load more",
+	"add app": "Connect account",
+	"add your images from social apps": "Add your pictures from social networks",
+	"there are not images, load images": "You haven't uploaded any images. Why not add some?",
+	"there are not images, try other category": "There are no images in this category. Please try another one",
+	"to page": "Site page",
+	"to popup": "Pop-up window",
+	"open in new window": "Open in a new window",
+	"to none": "None",
+	"add children to show this item": "Add nested items if you want this item to appear in the menu",
+	"link on page": "Site page",
+	"link on popover": "Pop-up window",
+	"throw for start upload": "Release the button to start the uploading",
+	"release to upload": "Release the image to upload",
+	"replace from lib": "Choose one from the library",
+	"uploaded percents": "Uploading ",
+	"upload complete": "The upload is complete",
+	"upload again": "Upload error. Try again",
+	"uploaded file is not image": "The file {fileName} cannot be uploaded.",
+	"uploaded file mime type error": "File type of {fileName} not supported",
+	"too many files": {
+		"[0-9]*(0|5|6|7|8|9)$": "Too many files. The maximum number is {count} files.",
+		"[0-9]*(1)$": "Too many files. The maximum number is {count} file.",
+		"[0-9]*(2|3|4)$": "Too many files. The maximum number is {count} files.",
+		"(11|12|13|14|15|16|17|18|19)$": "Too many files. The maximum number is {count} files."
+	},
+	"too empty file": "Empty file",
+	"too big file": "The file {fileName} is too large. The maximum size: {size} MB.",
+	"from computer": "From your computer",
+	"drop file here for replace": "Drag a file here to upload",
+	"upload": "Upload",
+	"or drop file here": "or drop the file here",
+	"or drop file": "or drop the file here",
+	"element has been added": "The widget has been added.",
+	"hide rgb": "Hide RGB",
+	"duplication prohibited": "Only one %1 widget can be added to a page.",
+	"fixed recomended": "Recommended spot",
+	"fixed replace": "will be replaced by ",
+	"download": "Download",
+	"follow": "Open",
+	"add contact": "Add contact",
+	"Position, address": "Brief info about the reviewer",
+	"comment": "Review",
+	"not correct select design. Need enter one value": "The design is set incorrectly. One of the values is missing",
+	"name": "Name",
+	"change": "Change",
+	"paste the generated code": "Paste the generated code",
+	"text comment": "Review text",
+	"text in sharing social": "The text displayed when the page is shared (over%1 some social media).",
+	"select design comments": "Select a design for reviews",
+	"avatar": "Avatar",
+	"advanced field": "Custom field",
+	"add more": "Add more",
+	"comments": "REVIEWS",
+	"edit slider": "Edit slider",
+	"add image": "Add image",
+	"add filed": "Add field",
+	"show images": "Show images",
+	"settings button": "Button settings",
+	"size button": "Button size",
+	"sizeButtonsValues": {
+		"small": "Small",
+		"medium": "Medium",
+		"large": "Large"
+	},
+	"sec": "sec",
+	"change slide via": "Slide change in",
+	"auto scroll": "Auto scroll",
+	"animation": "Animation",
+	"ico": "Icon",
+	"jaw": "Overlay",
+	"text": "Text",
+	"picture": "Image",
+	"open to new window": "Open in a new window",
+	"elements": "Widgets",
+	"slider": "Slider",
+	"social networks": "Social Networks",
+	"select social networks": "Select social networks",
+	"add": "Add",
+	"upbutton": "\"Back to Top\" button",
+	"upbutton2": "\"Back to Top\" button",
+	"cecutient": {
+		"enable description": "The switch icon has been added to the header",
+		"edit": "Set up"
+	},
+	"cecutient enable": "Enable the version for visually impaired",
+	"cecutient enable description": "The switch button has been added to the Header",
+	"cecutient panel enabled": "Go to the version for visually impaired",
+	"cecutient panel access": "Available in the preview mode and on the published website",
+	"cecutient panel": "Site version for visually impaired",
+	"cecutient panel options": {
+		"font size": "Font size",
+		"font size title": {
+			"small": "Small",
+			"medium": "Medium",
+			"max": "Large"
+		},
+		"color scheme": "Color scheme",
+		"color scheme title": {
+			"black and white": "Black on white",
+			"white and black": "White on black",
+			"dark blue on blue": "Dark blue on blue"
+		},
+		"images": "Images",
+		"images show": "Displayed",
+		"image not grayscale": "Colored"
+	},
+	"cecutient panel disabled": "Standard version",
+	"cecutient panel hide": "Minimize panel",
+	"cecutient panel show": "Maximize panel",
+	"show upbutton": "Show button",
+	"widget title": "Widget title",
+	"show": "Show",
+	"select design": "Select a design",
+	"select": "Select",
+	"design": "Design",
+	"designn": "Design %1",
+	"my social network": "MY SOCIAL NETWORKS",
+	"enter header": "Enter a title",
+	"enter description": "Enter a description",
+	"enter keyword": "Enter keywords",
+	"holiday": "Day off",
+	"day and night": "24 hours a day",
+	"work time": "Working hours",
+	"begin write": "Start typing",
+	"insert": "Insert",
+	"hover": "On hover",
+	"settings": "Settings",
+	"text color": "Text color",
+	"style": "Style",
+	"blocks": "Blocks",
+	"screen phone": "Phone screen",
+	"screen tablet": "Tablet screen",
+	"screen monitor": "Monitor screen",
+	"back": "Back",
+	"save": "Save",
+	"tag keywords contains list keywords for search engine": "Keywords meta tag",
+	"tag description use in search engine": "Description meta tag",
+	"show in browser address": "Displayed in the address bar of the browser. For example, \"page\".",
+	"address chpu": "Search engine friendly URL",
+	"show in browser header": "Displayed in the list of pages",
+	"main": "General",
+	"no pages": "No pages",
+	"class block": "Block classes",
+	"spacer": "Space",
+	"sliderbackground": "Slider background",
+	"sliderWysiwyg": "Slider",
+	"contactsForm": "Contacts",
+	"downloadFile": "File",
+	"ecwid": "Ecwid Store",
+	"slideshare": "SlideShare",
+	"mailchimp": "MailChimp",
+	"ucalc": "Cost Сalculator",
+	"feedBack": "Contact Us",
+	"mainmenu": "Menu",
+	"menu": "Menu",
+	"imagezoom": "Image",
+	"table": "Table",
+	"gallery": "Gallery",
+	"gallery2": "Gallery",
+	"goods": "Product/service",
+	"goodsGrid": "Products/services",
+	"maps": "Map",
+	"worktime": "Working hours",
+	"button": "Button",
+	"wysiwyg": "Text",
+	"socialGroups": "Social groups",
+	"socialButtons": "Social buttons",
+	"instagram": "Instagram",
+	"pinterest": "Pinterest",
+	"facebookLikeBox": "Facebook",
+	"blog": "News",
+	"comments word": "Comments",
+	"yandex": "Yandex",
+	"review": "Reviews",
+	"price": "Price List",
+	"icon": "Icon",
+	"link": "Link",
+	"video": "Video",
+	"audio": "SoundCloud",
+	"default": "Default",
+	"counter": "Counter",
+	"record": "Post",
+	"draft": "Draft",
+	"link on video": "Video link",
+	"thumbnail image": "Thumbnail image",
+	"enter link on video": "Paste the link to a video.",
+	"enter link on video from": "Paste the link to the video from <a href=\"http://www.youtube.com/\" target=\"_blank\">YouTube</a>, <a href=\"https://vimeo.com/\" target=\"_blank\">Vimeo</a> or other.",
+	"enter link on video from youtube or vimeo": "Paste the link to the video from <a href=\"http://www.youtube.com/\" target=\"_blank\">YouTube</a> or <a href=\"https://vimeo.com/\" target=\"_blank\">Vimeo</a>.",
+	"video in progress": "Processing video...",
+	"link in progress": "The link is being processed...",
+	"link is added": "The link has been successfully processed.",
+	"this field not be empty": "Please fill in the field",
+	"invalid url": "Invalid video link",
+	"zoom by click": "Click to enlarge",
+	"outer link": "External URL",
+	"appearance": "Design",
+	"outer": "Outer",
+	"delete": "Delete",
+	"hide": "Hide",
+	"edit": "Edit",
+	"view": "View",
+	"account": "Account",
+	"bind": "Connect",
+	"unbind": "Disconnect",
+	"support": "Support",
+	"author": "Author",
+	"clear": "Clear",
+	"widgets": {
+		"header": {
+			"name": "Heading",
+			"description": "Headings help to organize text, group information and facilitate reading."
+		},
+		"wysiwyg": {
+			"name": "Text",
+			"description": "Basic content of any website. You can choose the text style, formatting, and color."
+		},
+		"imagezoom": {
+			"name": "Basic Image",
+			"description": "Upload a custom image or choose one from our library."
+		},
+		"table": {
+			"name": "Table",
+			"description": "Use tables to display large amounts of information in a consistent way."
+		},
+		"handsOnTable": {
+			"name": "PRO Table",
+			"description": "A table that offers a wide range of visual settings and brings the option to copy data and merge cells."
+		},
+		"gallery": {
+			"name": "Gallery",
+			"description": "It will help you  beautifully organize and display photos and other images"
+		},
+		"gallery2": {
+			"name": "Gallery",
+			"description": "It will help you  beautifully organize and display photos and other images"
+		},
+		"sliderWysiwyg": {
+			"name": "Slider",
+			"description": "Contains slides. Each slide may have custom text and design."
+		},
+		"button": {
+			"name": "Basic Button",
+			"description": "A button to design a call to action or a link."
+		},
+		"icon": {
+			"name": "Icon",
+			"description": "Icons are good to highlight key points in texts."
+		},
+		"uIcon": {
+			"name": "Icon ",
+			"description": "Icons are good to highlight key points in texts."
+		},
+		"goods": {
+			"name": "Basic Card",
+			"description": "Use for descriptions of products, services, features, offers, etc."
+		},
+		"price": {
+			"name": "Price List",
+			"description": "A list of your products and services with short descriptions and prices."
+		},
+		"review": {
+			"name": "Reviews",
+			"description": "1 to 9 reviews of your products, services, or work."
+		},
+		"downloadFile": {
+			"name": "File",
+			"description": "A document, software, or any other file that can be downloaded from your website"
+		},
+		"ecwid": {
+			"name": "Ecwid Store",
+			"description": "Online store widget by Ecwid"
+		},
+		"slideshare": {
+			"name": "SlideShare",
+			"description": "The service to share presentations, text documents and videos."
+		},
+		"mailchimp": {
+			"name": "MailChimp",
+			"description": "The service to send automated newsletters. Add the form to your website and grow your subscribers list."
+		},
+		"ucalc": {
+			"name": "Cost Сalculator",
+			"description": "uCalc service helps you calculate the cost of complex services"
+		},
+		"video": {
+			"name": "Video",
+			"description": "Allows videos from YouTube or any other video hosting service to be posted on the website"
+		},
+		"maps": {
+			"name": "Map",
+			"description": "Allows addresses to be displayed"
+		},
+		"feedBack": {
+			"name": "Contact Form",
+			"description": "Use this widget to create a contact form, application form, review form, etc."
+		},
+		"contacts": {
+			"name": "Contact",
+			"description": "For displaying your contact information"
+		},
+		"social": {
+			"name": "Social networks",
+			"description": "A set of links to your social media community"
+		},
+		"socialGroups": {
+			"name": "VK",
+			"description": "Your community on VK. "
+		},
+		"instagram": {
+			"name": "Instagram",
+			"description": "Your Instagram photo feed or your favorite hashtag."
+		},
+		"pinterest": {
+			"name": "Pinterest",
+			"description": "Pictures from your boards on Pinterest."
+		},
+		"facebookLikeBox": {
+			"name": "Facebook",
+			"description": "Displays a feed and followers of your Facebook page."
+		},
+		"odnoklassnikiLikeBox": {
+			"name": "Odnoklassniki",
+			"description": "Your group's community on Odnoklassniki"
+		},
+		"twitterLikeBox": {
+			"name": "Twitter",
+			"description": "Displays the stream of your Tweets."
+		},
+		"spacer": {
+			"name": "Space",
+			"description": "Creates an empty space between widgets."
+		},
+		"border": {
+			"name": "Separator",
+			"description": "Will come in handy to separate site widgets and blocks from each other."
+		},
+		"u-menu": {
+			"name": "Menu",
+			"description": "Navigation through the site's pages."
+		},
+		"mainmenu": {
+			"name": "Menu",
+			"description": "Navigation through the site's pages."
+		},
+		"worktime": {
+			"name": "Schedule",
+			"description": ""
+		},
+		"bloquote": {
+			"name": "Quote",
+			"description": "Use the widget to present quotes."
+		},
+		"googlesearch": {
+			"name": "Google Search",
+			"description": "The Google search box helps your visitors find what they need on your website."
+		},
+		"jivosite": {
+			"name": "JivoChat",
+			"description": "JivoChat allows you to talk to website visitors via a live chat."
+		},
+		"backCall": {
+			"name": "Callback",
+			"description": "The widget that allows website visitors to schedule a phone call from you."
+		},
+		"addThisShareBar": {
+			"name": "AddThis Sidebar",
+			"description": "A simple tool to add a sidebar with Share buttons to your website."
+		},
+		"liveAgent": {
+			"name": "LiveAgent",
+			"description": "An online chat to provide real-time support to visitors."
+		},
+		"yandexSearch": {
+			"name": "Yandex Search",
+			"description": "On-site search"
+		},
+		"timer": {
+			"name": "Timer",
+			"description": ""
+		},
+		"newsInformer": {
+			"name": "News Widget",
+			"description": "Displays the latest news."
+		},
+		"liveChat": {
+			"name": "LiveChat",
+			"description": "Online chat service to provide real-time support to visitors."
+		},
+		"audio": {
+			"name": "SoundCloud",
+			"description": "Add tracks from the SoundCloud service to your website."
+		},
+		"customHtml": {
+			"name": "HTML Code",
+			"description": "The widget allows to embed and edit custom code on the website pages."
+		},
+		"weather": {
+			"name": "Weather",
+			"description": "Weather forecast on your website"
+		},
+		"productCard": {
+			"name": "Product",
+			"description": "Built-in online store widget by %1"
+		},
+		"productDetail": {
+			"name": "Product Сard",
+			"description": "Built-in online store widget by %1"
+		},
+		"cart": {
+			"name": "Cart",
+			"description": "Description of the Cart widget"
+		},
+		"checkout": {
+			"name": "Checkout",
+			"description": "Description of the Checkout widget"
+		},
+		"promocode": {
+			"name": "Promo code",
+			"description": "Promo code widget description"
+		},
+		"extendedCart": {
+			"name": "Product List",
+			"description": "Description of the Product List widget"
+		},
+		"shipping": {
+			"name": "Shipping",
+			"description": "Description of the Shipping widget"
+		},
+		"payment": {
+			"name": "Payment",
+			"description": "Description of the Payments widget"
+		},
+		"customerInfo": {
+			"name": "User Information",
+			"description": "Description of the User Information widget"
+		},
+		"uSocial": {
+			"name": "Share Buttons"
+		},
+		"stages": {
+			"name": "Steps",
+			"description": "Horizontal presentation of steps sequence, for example, in the \"How It Works\" block"
+		},
+		"timeline": {
+			"name": "Timeline",
+			"description": "Vertical presentation of steps, for example, in schedules, conference programs, etc."
+		},
+		"disqus": {
+			"name": "Disqus",
+			"description": "Disqus description"
+		},
+		"uCard": {
+			"name": "Card",
+			"description": "Use for descriptions of products, services, features, offers, etc."
+		}
+	},
+	"blocksTypes": {
+		"header": "Header",
+		"footer": "Footer",
+		"headers": "Titles",
+		"content": "Content",
+		"thematic": "Themed",
+		"contacts": "Contact",
+		"empty": "Blank",
+		"favorites": "Favorites"
+	},
+	"blockNames": {
+		"header N": "Heading %1",
+		"footer": "Footer %1",
+		"headers": "Heading %1",
+		"content": "Content %1",
+		"thematic": "Themed %1",
+		"contacts": "Contact %1",
+		"empty": "Blank %1",
+		"favorites": "Favorites"
+	},
+	"under construction": "Under development",
+	"editor": {
+		"note": "Note",
+		"normal": "Normal",
+		"bold": "Bold",
+		"italic": "Italic",
+		"justifyleft": "Align left",
+		"justifycenter": "Center",
+		"justifyright": "Align right",
+		"insertorderedlist": "Numbered list",
+		"insertunorderedlist": "Bulleted list",
+		"image": "Image",
+		"link": "Link",
+		"edit": "Edit",
+		"header1": "Heading 1",
+		"header2": "Heading 2",
+		"header3": "Heading 3",
+		"header4": "Heading 4",
+		"paragraph": "Paragraph",
+		"important": "Important",
+		"node": "Note",
+		"style": "Style",
+		"colors": "Color",
+		"design": "Formatting",
+		"crop": "Crop",
+		"more": "Read more",
+		"use tag": "Use the <%1> tag",
+		"video": "Video",
+		"extra format": "Formatting",
+		"extra background": "Text background",
+		"button ReadMore": "\"Read more\" delimiter",
+		"button Image": "Image",
+		"button Video": "Video",
+		"button bold": "Bold",
+		"button italic": "Italic",
+		"button link": "Link",
+		"button color": "Color",
+		"button align": "Alignment",
+		"button typo": "Style",
+		"button size": "Size",
+		"button extra": "More",
+		"button unordered": "List",
+		"button ordered": "Numbered list",
+		"button underline": "Underline",
+		"button strikethrough": "Strikethrough",
+		"button clear": "Clear formatting",
+		"font size": "Font size",
+		"line height": "Line spacing",
+		"reset font styles": "Clear",
+		"px": "px",
+		"text": "Text",
+		"size": "Size",
+		"distance": "Spacing",
+		"auto": "Auto",
+		"tag": "Tag",
+		"seo settings": "SEO settings"
+	},
+	"imagelib": {
+		"title": "Image library",
+		"select": "Save",
+		"clear": "Clear",
+		"images": "Selected",
+		"pages": {
+			"loaded": {
+				"title": "Uploaded",
+				"placeholder": "There are no images in this category. Upload images"
+			},
+			"thematic": {
+				"title": "Themed",
+				"placeholder": "There are no images in this category. Please try another one"
+			},
+			"stock": {
+				"title": "Stock photos",
+				"category": "Category",
+				"choose": "Select",
+				"search": "Search",
+				"enter searchword": "Search",
+				"placeholder": "Select a category from the list"
+			},
+			"social": {
+				"title": "Social networks",
+				"placeholder": "Add your pictures from social networks",
+				"add": "Connect network",
+				"no-albums": "There are no albums with images :(",
+				"no-images": "There are no images in this album :(",
+				"loadmore": "Upload more"
+			}
+		},
+		"count images": {
+			"[0-9]*(0|5|6|7|8|9)$": "%1 images",
+			"[0-9]*(1)$": "%1 image",
+			"[0-9]*(2|3|4)$": "%1 images",
+			"(11|12|13|14|15|16|17|18|19)$": "%1 images"
+		}
+	},
+	"orderForm": {
+		"unconfirmed1": "You can't receive messages through an order form. Your email hasn't been confirmed.",
+		"unconfirmed2": "To confirm your email, check your Inbox and click the link provided.",
+		"send": "%1Resend confirmation message%2",
+		"sent": "Confirmation sent",
+		"page selection": "Choose a page",
+		"all pages": "All pages",
+		"no open in preview": "You cannot submit a form in the Builder mode.",
+		"miskDataSettings": "Product or service",
+		"service": "Product or service",
+		"showTitleMiskData": "Show field name",
+		"changes saved": "Changes saved",
+		"repeat send": {
+			"[0-9]*(0|5|6|7|8|9)$": "The form can be resubmitted in %1 seconds.",
+			"[0-9]*(1)$": "The form can be resubmitted in %1 second",
+			"[0-9]*(2|3|4)$": "The form can be resubmitted in %1 seconds.",
+			"(11|12|13|14|15|16|17|18|19)$": "The form can be resubmitted in %1 seconds."
+		},
+		"adSettings": "Advanced settings",
+		"emptyTitle": "Pop-up window",
+		"name": "Pop-up window",
+		"caption desc": "The field is automatically filled out with a product/service name from the Card or Price List widget.",
+		"copy": "-copy",
+		"form name": "Form",
+		"fields": "Fields",
+		"field select": "Select field",
+		"field input": "Small field",
+		"field text": "Large field",
+		"field email": "Email",
+		"field phone": "Phone",
+		"field name input": "Name",
+		"field file": "File",
+		"field userAgreement": "Checkbox settings",
+		"field user agreement": "Terms & Conditions",
+		"tooltip required": "Set as required",
+		"tooltip not required": "Set as optional",
+		"msgAfterSend": "Message displayed after sending",
+		"sendTo": "Send to",
+		"diff email": "Additional email",
+		"field name": "Field title",
+		"field desc": "Field description",
+		"text in field": "Placeholder",
+		"field size": "Field height",
+		"sm": "Small",
+		"md": "Medium",
+		"lg": "Large",
+		"field type": "Field type",
+		"field user agreement def": "Enabled by default",
+		"empty field error": "Please fill out the field",
+		"email field error": "Please provide a valid email",
+		"phone field error": "Please enter a valid phone number",
+		"user agreement field error": "",
+		"process": "Sending...",
+		"server error": "An error has occurred",
+		"willShowWidgetData": "Here a name from the Card or Price List widget will be displayed.",
+		"miskDataTitle placeholder": "Enter the name of a product or service",
+		"title placeholder": "Enter a form name",
+		"field placeholder": "Enter a field title",
+		"note placeholder": "Enter a description",
+		"btn placeholder": "Enter button text",
+		"add field": "Add field",
+		"attach file": "Attach file",
+		"file field description": "You can attach a file of up to 5 MB in size and in the following formats: txt, docx, pdf, jpeg, png, gif, bmp, and zip.",
+		"requiredSettings": {
+			"mark required field": "Mark required fields",
+			"star": "With asterisk",
+			"text": "With text",
+			"notRequired": "Mark only optional fields",
+			"textTitle": "Text of the mark",
+			"notRequiredTitle": "Text of the mark",
+			"notRequiredData": " If most fields are required, marking only optional fields makes the form look simpler."
+		},
+		"def": {
+			"input": "Small field",
+			"enter input": "Placeholder",
+			"input example": "A field description explains what information is to be entered.",
+			"text": "Large field",
+			"enter text": "Placeholder",
+			"text example": "A field description explains what information is to be entered.",
+			"email": "Email",
+			"enter email": "Enter your email",
+			"email example": "Provide your email, so that we can contact you.",
+			"phone": "Phone number",
+			"enter phone": "Enter your phone number",
+			"phone example": "For example, +1 555 123-4567. The phone number will help us to contact you shortly.",
+			"name": "Name",
+			"enter name": "Enter your name",
+			"name example": "Your name",
+			"file": "File",
+			"enter file": "",
+			"enter example": "",
+			"msgAfterSend": "Your order has been submitted. Thank you!",
+			"title": "New window",
+			"btn": "Send",
+			"miskDataTitle": "Product or service",
+			"not required": "optional",
+			"required": "required",
+			"your messages": "Your message",
+			"message sent": "Thank you! Your message has been sent.",
+			"contact us": "Contact us",
+			"product or service": "Product or service",
+			"give details of the order": "Provide details of your order.",
+			"comment to the order": "Your comment",
+			"product order": "Order a product",
+			"product": "Product",
+			"order": "Submit",
+			"ordering services": "Order a service",
+			"your message": "Your message",
+			"service": "Service",
+			"userAgreement": "Terms & Conditions",
+			"enter userAgreement": "",
+			"userAgreement example": "<p>I agree to the terms of the <a href=\"/__user_agreement\" target=\"_blank\" rel=\"nofollow\">User Agreement</a> and the <a href=\"/__privacy_policy\" target=\"_blank\" rel=\"nofollow\">Privacy Policy</a></p>"
+		},
+		"errors": {
+			"attach file": "Attach file",
+			"too big files size": "The size of the attached file is too large. The maximum size: %1 MB.",
+			"wrong file type": "Invalid file type. Allowed file types: txt, docx, pdf, jpeg, png, gif, bmp, zip"
+		},
+		"mail": {
+			"subject": "New message sent through the contact form \"%1\""
+		},
+		"amoCRM": {
+			"title": "Lead from the form: %1"
+		},
+		"boardCRM": {
+			"title": "Lead from the form: %1"
+		},
+		"triggers": {
+			"name": "Trigger options",
+			"options": {
+				"button": {
+					"title": "Click on button",
+					"text": "To show the window on click,<br>\nconnect the link to the button"
+				},
+				"timer": {
+					"title": "Timer",
+					"duration time": "seconds"
+				},
+				"scroll": "Scroll",
+				"close tab": "Exit from site"
+			}
+		}
+	},
+	"n valid text, please not use html": "Please don't use HTML",
+	"Page exist": "Page already exists",
+	"Page bad address": "Invalid page address",
+	"not valid id page": "Invalid page name.",
+	"not valid id post": "Invalid page name",
+	"news settings": "News Settings",
+	"Path `title` is required": "Specify the page title",
+	"Path `id` is required": "Enter a page URL",
+	"Page id already in use": "The page address is already in use.",
+	"Pages order saved successfully": "Page order successfully saved",
+	"services": "Services",
+	"site logo": "Website logo",
+	"logo": "Website logo",
+	"footerText": "Text",
+	"copyright": "Copyright",
+	"siteName": "Website title",
+	"tagline": "Slogan",
+	"show_mobile": "Enable mobile version",
+	"for_mobile": "Mobile version",
+	"for_mobile_version": "For tablet and mobile versions",
+	"footerGal": "Gallery",
+	"backup restore error": "Backup restoration is temporarily unavailable due to maintenance. Please try again in an hour.",
+	"code editor": "HTML editor",
+	"create popup": "Create a pop-up window",
+	"add link": "Add a link",
+	"search": "Search",
+	"search results": "Search results",
+	"we have not found a widget": "No results for your search query.",
+	"we have not found a pages": "No pages found for your search query.",
+	"try WIDGETNAME_1 or WIDGETNAME_2": "Try to search «%1» or «%2».",
+	"anchorPopup": {
+		"title": "Anchor settings",
+		"title field": "Title",
+		"add anchor": "Set as anchor",
+		"remove anchor": "Remove anchor",
+		"rename anchor": "Rename",
+		"valid name": "Displayed in the site's address bar after the hashtag (#)",
+		"not allowed ul prefix": "ul-group agreements are reserved by the system",
+		"wrong name": "You can use Latin letters, numbers and hyphens",
+		"duplicate anchor": "The anchor already exists on this page"
+	},
+	"linkPopover": {
+		"link to": "Link to",
+		"outer": "external page",
+		"anchor": "anchor",
+		"inner": "page",
+		"orderForm": "pop-up window",
+		"error outer": "Enter a link",
+		"error inner": "Select a page",
+		"error orderForm": "Select a pop-up window",
+		"error orderForm empty": "Create a window",
+		"title alert orderForm remove": "All links to this window will stop working",
+		"text alert orderForm remove": "The action cannot be undone. Do you confirm removal?",
+		"btn alert orderForm remove": "Delete",
+		"not exist": {
+			"anchor": "a non-existent anchor",
+			"inner": "a non-existent page",
+			"orderForm": "a non-existent pop-up window"
+		},
+		"edit": {
+			"outer": "Outer",
+			"inner": "Site page",
+			"orderForm": "Pop-up window"
+		}
+	},
+	"site header": "Website's header",
+	"site footer": "Website's footer",
+	"PAGENAME page": "Page %1",
+	"prouser widget edit alert": "Only PRO users can edit this widget.",
+	"panel-pages": {
+		"copy": "Duplicate",
+		"preview": "View",
+		"settings": "Settings",
+		"remove": "Delete",
+		"actions": "Action"
+	},
+	"copy": "Duplicate",
+	"copy block": "Duplicate block",
+	"remove block": "Delete block",
+	"move to top": "Move up",
+	"move to bottom": "Move down",
+	"copy to page": {
+		"copy to another page": "Copy to another page",
+		"copy": "Copy",
+		"to another page": "to another page",
+		"errors": {
+			"no pages for copy": "No pages to copy to"
+		}
+	},
+	"anchor": "Anchor link",
+	"too big sum size": "Total file size {sumSize} MB exceeds the maximum allowed size of {maxSumSize} MB.",
+	"wrong file type": "Invalid file type of {fileName}. Allowed file types: txt, docx, pdf, jpeg, png, gif, bmp, zip.",
+	"site template": "Website design",
+	"switch template": "Change design",
+	"site block": "You cannot publish your website",
+	"tooltip theme settings": "Edit",
+	"tooltip remove scheme": "Delete",
+	"tooltip clone scheme": "Duplicate",
+	"do you want to remove the cs": "Delete the color scheme?",
+	"upload by url": {
+		"back": "Back",
+		"upload": "Upload",
+		"again": "Try again",
+		"paste url here": "Paste a link",
+		"choose way": {
+			"from computer": "From computer",
+			"or": "or",
+			"by url": "By link",
+			"or drag and drop here file to replace": "or drag a file here to upload"
+		},
+		"error": {
+			"connection aborted try again": "Connection error.<br>Try again",
+			"unacceptable mime type": "Use .jpg, .png or .gif",
+			"file size limit exceeded": "The maximum size is 5 MB",
+			"url not found": "The specified address was not found",
+			"unknown error code": "Unknown error",
+			"no url": "No link has been entered",
+			"invalid url": "Invalid link",
+			"image processing error": "Error processing the image",
+			"server connection error": "Error uploading the file",
+			"remote file not found": "No image found",
+			"unsupported protocol": "Unsupported protocol",
+			"mime type is not acceptable": "Invalid file type",
+			"some upload error": "Server connection error"
+		}
+	},
+	"goals": {
+		"pubslih your website before using goals": "Publish your website before connecting goals",
+		"sectionName": {
+			"yandex": "Goals in Yandex.Metrics",
+			"google": "Goal on Google Analytics"
+		},
+		"need analytics to be connected": {
+			"yandex": "To activate the goals, you need to connect Yandex.Metrics",
+			"google": "For goals to work, connect Google Analytics first"
+		},
+		"connect": "Connect",
+		"I have already connected": "I have connected it",
+		"action": "Action",
+		"title": "Name",
+		"identifier": "ID",
+		"label": "Label",
+		"copy": "Copy",
+		"label has been copied to clipboard": "Label copied to clipboard",
+		"category has been copied to clipboard": "Category copied to the clipboard",
+		"action has been copied to clipboard": "Action copied to the clipboard",
+		"worth has been copied to clipboard": "Value copied to the clipboard",
+		"create goal": "Create a goal",
+		"goal editing": "Edit goal",
+		"goal add process is running": "Creating goal...",
+		"goal has been added automatically": "The goal has been created automatically",
+		"go and see it": "View",
+		"this goal should be added by yourself": "The goal has to be <a target=\"_blank\" href=\"%1\" title=\"Proceed to goal creating\">created</a> manually by specifying a label.",
+		"how to add a goal?": "Learn how to create a goal",
+		"category": "Category",
+		"worth": "Value",
+		"help": {
+			"title": "Statistics",
+			"intro": "Here you can connect statistics on&nbsp;goals.",
+			"about goals": "About Goals",
+			"what are goals": "A goal is a specific action completed by a&nbsp;visitor on your website: clicking on a&nbsp;button, sending a&nbsp;message via a&nbsp;contact form, requesting a&nbsp;callback, and other activities that contribute to the success of your business. The&nbsp;goal statistics is available on&nbsp;Google Analytics.",
+			"yandex and goals": "On&nbsp;Yandex.Metrics a goal is added automatically. After a&nbsp;while you will be able to view the statistics for the&nbsp;added goal.",
+			"read about goals in yandex metrics": "Read about&nbsp;goals on&nbsp;Yandex.Metrics",
+			"google and goals": "On&nbsp;Google Analytics a goal has to be created manually. Learn how to do it <a target=\"_blank\" href=\"%1\">here</a>.",
+			"read about goals in google analytics": "Read about&nbsp;goals on&nbsp;Google Analytics"
+		},
+		"actionTitle": {
+			"widget": {
+				"feedBack": "Sending a filled out form",
+				"cart": "Click on the Checkout button",
+				"downloadFile": "File downloading",
+				"button": "Clicking on a button",
+				"uButton": "Clicking on a button",
+				"backCall": "Callback request",
+				"productCard": "Click on the Buy button",
+				"goods": "Click on card",
+				"icon": "Click on icon",
+				"uIcon": "Click on icon",
+				"imagezoom": "Click on image",
+				"uCard": "Click on card"
+			},
+			"orderForm": {
+				"orderForm": "Sending a filled out form"
+			}
+		},
+		"messages": {
+			"press KEY to copy": "Click %1 to copy it"
+		},
+		"errors": {
+			"error while adding goal": "Error adding the goal",
+			"error while editing goal": "Error editing the goal",
+			"not supported": "The feature is not supported",
+			"error while checking": "Error while checking the existence of the goal"
+		}
+	},
+	"publish window": {
+		"sait publish": "The website has been published",
+		"show": "View",
+		"dont show": "Don't show it again",
+		"premium": "Premium",
+		"premium title desc": "Unlock all features",
+		"premium title desc2": "All the necessary tools and features for your business website",
+		"period": "mo",
+		"premium title": "Premium",
+		"premium desc": "All the necessary tools and features for your business website",
+		"buy": "Purchase",
+		"pro title": "Pro",
+		"pro desc": "More creative and coding possibilities for professionals",
+		"bragging": "Spread the word",
+		"bragging desc": "Easily promote your website and share the news",
+		"share vk": "Tell about your website on VK",
+		"share fb": "Share your website to Facebook",
+		"share tw": "Tell about your website on Twitter",
+		"new domain": "New domain",
+		"new domain desc": "Get an address like",
+		"publishing": "Publishing website",
+		"publishing text": "You've got a lot of beautiful pages. Please wait while we load them"
+	},
+	"animate": {
+		"animation": "Animation",
+		"turn widgets animation on": "Enable animation for widgets",
+		"page selection": "Choose the page",
+		"all pages": "All pages",
+		"select page": "Select pages",
+		"play animation": "Play animation"
+	},
+	"usercrop": {
+		"upload": "Replace",
+		"title of titlePopup": "Caption",
+		"title of seoPopup": "SEO Settings",
+		"title of cut": "Crop",
+		"title of linkPopup": "Link",
+		"below image": "Under the image",
+		"cover image": "Over the image",
+		"on hover": "On hover",
+		"seo": {
+			"description": "The filled&nbsp;out attributes will help the&nbsp;image to show&nbsp;up on&nbsp;search engines",
+			"alt": "Describes the&nbsp;content of the&nbsp;image to search engines",
+			"title": "Additional information about the&nbsp;image"
+		},
+		"no title": "None"
+	},
+	"favorite-blocks": {
+		"add block to favorites": "Add to Favorites",
+		"block added to favorites blocks section": "Block added to the Favorites category on the Blocks tab",
+		"block favorites title": "Block %1",
+		"block favorites help": "Click on the <span class=\"icon-content-special-star-stroke ul-favorits-default-help\"></span> icon on any block to add it here",
+		"nf remove block favorites": "Delete %1 from Favorites?",
+		"block favorites remove error": "Error when deleting the favorite block",
+		"block favorites add success": "Block added to the Favorites category on the Blocks tab",
+		"block favorites edit error": "Error when editing the favorite block"
+	},
+	"block-settings": {
+		"decor": "Formatting",
+		"decor desktop": "Formatting",
+		"decor tablet": "Tablet view design",
+		"decor phone": "Mobile view design",
+		"block decor": "Block design",
+		"blockShadow": "Shadow",
+		"blockShadow group": {
+			"outer": "Outer",
+			"inner": "Inner",
+			"blur": "Blur",
+			"spread": "Spread"
+		},
+		"structure": "Structure",
+		"structure settings": "Block structure",
+		"background": "Background",
+		"background desktop": "Background",
+		"background tablet": "Tablet view background",
+		"background phone": "Mobile view background",
+		"show": "Show",
+		"hide": "Hide",
+		"hide desktop": "Hide on desktop",
+		"hide tablet": "Hide on tablet",
+		"hide phone": "Hide on mobile",
+		"restore widgets": "Restore widgets",
+		"widget one column": "One column",
+		"widget two columns": "Two columns",
+		"anchor": "Set up an anchor link",
+		"overlayColor": "Color overlay",
+		"imageSetting": "Image settings",
+		"effects": "Effects",
+		"backgroundColor": "Underlay color",
+		"block background": "Block background",
+		"block height": "Block height",
+		"block height content": "By content",
+		"block height screen": "By screen size",
+		"goods alignment": "Cards alignment",
+		"goods alignment height": "By height",
+		"goods alignment content": "By content",
+		"block scroll": "\"Scroll down\" button",
+		"block alignment": "Content alignment",
+		"block alignment top": "Top",
+		"block alignment center": "Center",
+		"block alignment bottom": "Bottom",
+		"block scroll color": "Color",
+		"block scroll size": "Size",
+		"block scroll size icon": "Icon size",
+		"block scroll icons": "Icon library",
+		"add your own": "Add icon",
+		"block scroll icon": {
+			"new": "New",
+			"common": "Basic",
+			"file types": "File types",
+			"currency": "Currency",
+			"directions": "Directions",
+			"brands": "Brands",
+			"add new": "Add a new icon",
+			"title": "Icon library",
+			"color image": "To change the color, replace the current image with the icon from the set"
+		},
+		"actions": "Actions",
+		"pinned block settings": "Pinned block settings",
+		"pinned block": {
+			"pb title": "Pinned block",
+			"pb description": "The block remains at the top or bottom of the page when scrolling and is always displayed on the screen",
+			"pb subtitle": "Visible in the preview mode and on the published website",
+			"pb position": "Position",
+			"pb position block": "Block position",
+			"pb top": "Top",
+			"pb bottom": "Bottom",
+			"pb show": "Show",
+			"pb show immediately": "Immediately",
+			"pb onscroll": "Scroll",
+			"pb close button": "\"Close\" Button",
+			"pb show close button": "Show",
+			"pb pin block": "Pin block",
+			"pb pin out block": "Unpin block"
+		},
+		"symbol block settings": "Multi-page block settings",
+		"symbol block": {
+			"title": "Multi-page block",
+			"header": "Header",
+			"footer": "Footer",
+			"free": "Free",
+			"when disabling the header": "When the Header is disabled, it disappears on all pages, except the current one",
+			"when disabling the footer": "When the Footer is disabled, it disappears on all pages, except the current one",
+			"when disabling the free": "When the multi-page block is disabled, it disappears on all pages, except the current one",
+			"description": "This block is synchronized across all pages on the website where it is located",
+			"make symbol": "Make this block multi-page",
+			"unmake symbol warning": "Are you sure you want to disable the multi-page block? The multi-page block will be removed from all pages except this one",
+			"made symbol succes": "This block has been made multi-page",
+			"update settings": "Updating settings",
+			"saved": "Saved",
+			"clone to all pages": "Block will be shown on all selected pages",
+			"block position": "Block position",
+			"choose position": "Choose the block position:",
+			"header always on top": "The Header is always at the top",
+			"footer always on bottom": "The Footer is always at the bottom",
+			"free position": "The free positioning allows changing the block position on any page",
+			"exists on pages": "Add block to pages",
+			"all pages": "All pages",
+			"decline": "Cancel",
+			"apply": "Make this block multi-page",
+			"discard": "Disable",
+			"current page": "Current page",
+			"we have already header": "The site already has a Header. To choose this block as a new Header, reset the existing one",
+			"we have already footer": "The site already has a Footer. To choose this block as a new Header, reset the existing one",
+			"header symbol block removal confirmation title": "Are you sure you want to remove the Header from the site?",
+			"footer symbol block removal confirmation title": "Are you sure you want to remove the Footer from the site?",
+			"header symbol block removal confirmation text": "It will be removed from all site pages",
+			"footer symbol block removal confirmation text": "It will be removed from all site pages"
+		},
+		"block paddings": "Block paddings",
+		"block type": "Block type",
+		"padding top": "Top",
+		"padding bottom": "Bottom",
+		"max": "Max: %1"
+	},
+	"loader": {
+		"constructor": {
+			"title": "Loading website",
+			"text": "Please wait while we load pages of your website"
+		},
+		"publication": {
+			"title": "Publishing website",
+			"text": "You've got a lot of beautiful pages. Please wait while we load them"
+		},
+		"preview": {
+			"title": "Preparing website for preview"
+		},
+		"backup": {
+			"preview": {
+				"title": "Loading the backup preview"
+			},
+			"recovery": {
+				"title": "Restoring your website from the backup copy"
+			}
+		}
+	},
+	"typography": {
+		"typography": "Typography",
+		"removePair": "Remove the pair?",
+		"logotype": "Logo",
+		"price-big": "Price, large",
+		"price-small": "Price, small",
+		"special-404-big": "404, big",
+		"special-404-small": "404, small",
+		"timer": "Timer",
+		"btn-big": "Button, big",
+		"btn-meddium": "Button, medium",
+		"btn-small": "Button, small",
+		"font-pairs": "Font pairs",
+		"font-pair": "Font pair",
+		"fonts": "Fonts",
+		"my-pairs": "My pairs",
+		"create-pairs": "Create a pair",
+		"title": "Heading",
+		"plain-text": "Normal text",
+		"template-font": "Default",
+		"default-fonts": "Default fonts",
+		"setting": {
+			"font": "Font",
+			"popular": "Popular",
+			"system": "System",
+			"inscription": "Style",
+			"size": "Size",
+			"spacing": "Spacing",
+			"line spacing": "Line spacing",
+			"auto": "Default",
+			"tune": "Custom",
+			"serif": "Serif",
+			"sans serif": "Sans serif",
+			"decorative": "Decorative"
+		}
+	},
+	"panel-design": {
+		"animation": "Animation",
+		"colors": "Colors",
+		"fonts": "Fonts",
+		"header and footer": "Header and footer",
+		"advanced": "Advanced",
+		"template": "Designs"
+	},
+	"panel-help": {
+		"title": "Help",
+		"help center": "Help Center",
+		"knowledge base": "Knowledge Base",
+		"services": "Services",
+		"video lessons": "Video Tutorials",
+		"initial training": "Product Tour",
+		"beginning of work": "Getting Started",
+		"interface": "Interface",
+		"widgets": "Widgets",
+		"shop": "Store",
+		"tariffs": "Pricing",
+		"domains": "Domains",
+		"publication": "Publication",
+		"seo": "Promotion",
+		"common": "General",
+		"turnkey site": "Order a Turnkey Website",
+		"help with the site": "Get Help with Your Site"
+	},
+	"error-window": {
+		"oops": "Ooops!",
+		"not-publish-site": "Unable to publish the website",
+		"cancel": "Cancel",
+		"support": "Contact our Support Team"
+	},
+	"deviceMode": {
+		"panelDevice": {
+			"adaptive version": "Adaptive site version",
+			"title": "Adaptive View",
+			"desktop": "Desktop",
+			"tablet": "Tablet",
+			"phone": "Mobile",
+			"show hidden": "Show hidden blocks in the Builder",
+			"configure your site for all devices in one click": "Customize your website for all devices in one click",
+			"configure absolute widget device": "For the correct operation of your website on tablets and phones, please choose one widget",
+			"show": "Show",
+			"select absolute widget": "Select widget",
+			"absolute widgets": "Floating widgets",
+			"hidden blocks": "Hidden blocks",
+			"list": {
+				"backCall": "Callback",
+				"liveChat": "LiveChat",
+				"jivosite": "JivoChat",
+				"liveAgent": "LiveAgent",
+				"addThisShareBar": "AddThis",
+				"uSocial": "Share Buttons"
+			}
+		},
+		"blockSettings": {
+			"phone": "For mobile version",
+			"tablet": "For tablet version",
+			"clear settings": "Reset to default"
+		},
+		"hideNode": {
+			"show on all devices": "Show on all devices"
+		},
+		"deviceName": {
+			"tablet": "Tablet",
+			"phone": "Mobile",
+			"desktop": "Desktop"
+		},
+		"deviceDative": {
+			"tablet": "tablet",
+			"phone": "mobile",
+			"desktop": "desktop"
+		},
+		"tooltip": "Customize adaptive view of your website",
+		"the size of the browser is device, go to the appropriate mode": "The browser size equals to that of a %1. Please switch to the corresponding mode"
+	},
+	"lockPanel": {
+		"title": "To add widgets, please go back to the desktop mode",
+		"button": "Back",
+		"widget-edit": {
+			"title": "To edit the widget, please go back to the desktop mode"
+		}
+	},
+	"hideFooterHeader": {
+		"header": "Header",
+		"footer": "Footer",
+		"page": "pages",
+		"header and footer": "Header and footer",
+		"hide": " will disappear in %1 seconds",
+		"restore": "You can enable the header in the Design section",
+		"cancel": "Cancel",
+		"timer": {
+			"[0-9]*(0|5|6|7|8|9)$": "will disappear in %1 seconds",
+			"[0-9]*(1)$": "will disappear in %1 second(s)",
+			"[0-9]*(2|3|4)$": "will disappear in %1 seconds",
+			"(11|12|13|14|15|16|17|18|19)$": "will disappear in %1 seconds"
+		},
+		"settings header": " Header settings",
+		"hide header": " Hide header",
+		"settings footer": " Footer settings",
+		"hide footer": " Hide footer"
+	},
+	"customClass": {
+		"class for block": "Block class",
+		"class for widget": "Widget class",
+		"type your class": "Enter a custom class",
+		"add another class": "Add a new class",
+		"remove class": "Remove the class",
+		"custom class hint": "Specify a class for the element on the page to connect a piece of code (css/js) to it. The connection is done through \"HTML code\" or \"Custom code\" widget on the Dashboard",
+		"error ul prefix is not allowed": "ul-group agreements are reserved by the system",
+		"error forbidden symbols": "You can use uppercase and lowercase letters, numbers, a hyphen, and a dash",
+		"error only numbers or start with a number": "A class can't contain numbers or start with numbers",
+		"error more than one expression": "The class field must contain only one expression without spaces. Use _ or - as separators"
+	},
+	"copyright banner": {
+		"popup title": "Try the Basic Plan",
+		"popup text": "You can disable the copyright starting from the Basic Plan",
+		"popup button": "Switch Plan",
+		"alert text": "You can set up or disable the copyright in your website settings",
+		"alert ok": "Set up"
+	},
+	"link-popover": {
+		"title": "Where does the link take to?",
+		"types": {
+			"external": {
+				"name": "Web address",
+				"input title": "Add web address (URL)"
+			},
+			"page": {
+				"name": "Page",
+				"select title": "Select a page"
+			},
+			"anchor": {
+				"name": "Anchor",
+				"empty title": "No anchors on the site yet",
+				"empty description": "Create the first anchor link with any block or widget. Anchors are useful for creating navigation on your site page",
+				"select page title": "Select a page",
+				"select anchor title": "Choose anchor",
+				"select anchor description": "Anchors can be used in any block or widget. Helpful for creating navigation on your site page"
+			},
+			"popupWindow": {
+				"name": "Pop-up window",
+				"add window": "Create pop-up window",
+				"empty title": "No pop-up windows on the site yet",
+				"select window": "Select a pop-up window"
+			},
+			"phone": {
+				"name": "Phone number ",
+				"enter phone number": "Введите номер телефона",
+				"description": "For example, +1 555 123-4567. Your site visitors can contact you shortly if they follow the link from their phones"
+			},
+			"email": {
+				"name": "Email",
+				"enter email": "Enter your email"
+			},
+			"none": {
+				"name": "No link",
+				"title": "The link is not set",
+				"description": "You can add a link to a web address, page or pop-up window"
+			}
+		}
+	},
+	"icon-library": {
+		"title": "Icon library",
+		"all icons": "All icons",
+		"there is no uploaded icons": "You haven't uploaded any icons yet",
+		"upload vector icons or images to your library": "Upload vector icons or images to the library",
+		"icons not found": "We couldn't find any icons that match your search",
+		"upload your icon": "Upload your icon"
+	},
+	"onboardingPopups": {
+		"greeting": {
+			"btn_finish": "Not Now",
+			"btn_next": "Let's Go!",
+			"heading": "Welcome to uKit!",
+			"description_0_1": "We'll introduce you to the uKit interface and its features and show you how you can quickly and easily create your own site. Ready?"
+		},
+		"widgets": {
+			"btn_next": "What's Next?",
+			"heading": "Use Widgets to Build Your Site",
+			"description_1_1": "Drag them from the left panel and drop them on the page. All widgets are divided into categories."
+		},
+		"blocks": {
+			"btn_next": "Wow! Anything else?",
+			"heading": "Use Blocks to Build Your Site",
+			"description_2_1": "You can drag and drop an entire block that already has several widgets in it. This is much faster.",
+			"description_2_2": "A few clicks and it's done!"
+		},
+		"constructor canvas": {
+			"btn_next": "Awesome! What's Next?",
+			"heading": "Full Control Over the Page",
+			"description_3_1": "You can drag, remove, and resize any widget. Blocks can also be rearranged, saved, and reused on your site in the future."
+		},
+		"button": {
+			"btn_next": "Any Other Features?",
+			"heading": "Widget Settings",
+			"description_4_1": "To edit the widget, just click on it! Some of the settings will appear above the widget, the others — on the left panel."
+		},
+		"leftPanel": {
+			"btn_next": "Anything Else?",
+			"heading": "Left Panel",
+			"description_5_1": "On the left panel, you can add pages, manage the design, and activate the mobile version of the site. All you need is at your hand."
+		},
+		"help": {
+			"btn_next": "Great! What's Next?",
+			"heading": "We Are Here to Help You",
+			"description_6_1": "You can get back to the Help Center at any time: to retake the product tour or browse our Knowledge Base"
+		},
+		"done": {
+			"btn_finish": "Create My Awesome Site!",
+			"heading": "Publish Your Site. Let the World Know",
+			"description_7_1": "Don't forget to publish your site when you finish it. Once published, it will be available to visitors."
+		}
+	},
+	"blockingPopups": {
+		"trial": {
+			"heading": "Your trial has expired",
+			"heading premium": "Your plan has expired",
+			"desc": "You need to upgrade to keep your site live. Choose one of the available subscriptions.",
+			"desc premium": "You need to renew your plan to keep the site live. Choose one of the available subscriptions.",
+			"pick tariff": "Choose Plan",
+			"extend tariff": "Renew Plan",
+			"tariff plan": {
+				"title": "What's inside the subscription:",
+				"services": {
+					"uKit capabilities": "All features of the uKit builder",
+					"hosting": "Hosting for your site",
+					"storage": "Unlimited bandwidth and storage for your files",
+					"domain": "Option to connect a domain to your site",
+					"ssl": "SSL certificate",
+					"helps": "24/7 support from uKit specialists",
+					"online chat": "Ready-to-use integrations with a live chat for your site, callback widget, and analytics systems",
+					"other": "And many more! See the full list of features on the pricing page"
+				}
+			}
+		}
+	},
+	"drop all settings": "Reset to default",
+	"loading files": "File upload",
+	"loading error try another file": "An error occurred, please try to upload another file",
+	"loading error wrong file type": "Invalid file format",
+	"loading error some of files does not uploaded": "Some of the files weren't uploaded. Allowed file formats: {{accepted}} Maх file size: {{maxSize}}MB",
+	"loading error too many files": "Maximum number of files you can upload at the same time: {{maxFiles}}",
+	"image editor": {
+		"Apply": "Apply",
+		"Arrow": "Arrow",
+		"Arrow-2": "Arrow-2",
+		"Arrow-3": "Arrow-3",
+		"Blend": "Blend",
+		"Blur": "Blur",
+		"Bold": "Bold",
+		"Brightness": "Brightness",
+		"Bubble": "Bubble",
+		"Cancel": "Undo",
+		"Center": "Center",
+		"Circle": "Circle",
+		"Color": "Color",
+		"Color Filter": "Color Filter",
+		"Crop": "Crop",
+		"Custom": "Custom",
+		"Custom icon": "Custom icon",
+		"Delete": "Delete",
+		"Delete-all": "Delete all",
+		"Distance": "Spacing",
+		"Download": "Download",
+		"Draw": "Draw",
+		"Emboss": "Emboss",
+		"Fill": "Fill",
+		"Filter": "Filter",
+		"Flip": "Flip",
+		"Flip X": "Flip X",
+		"Flip Y": "Flip Y",
+		"Free": "Free",
+		"Grayscale": "Grayscale",
+		"Heart": "Heart",
+		"Icon": "Icon",
+		"Invert": "Invert",
+		"Italic": "Italic",
+		"Left": "Left",
+		"Load": "Upload",
+		"Load Mask Image": "Load Mask Image",
+		"Location": "Location",
+		"Mask": "Mask",
+		"Multiply": "Multiply",
+		"Noise": "Noise",
+		"Pixelate": "Pixelate",
+		"Polygon": "Polygon",
+		"Range": "Fine tune",
+		"Rectangle": "Rectangle",
+		"Redo": "Redo",
+		"Remove White": "Remove White",
+		"Reset": "Clear",
+		"Right": "Right",
+		"Rotate": "Rotate",
+		"Sepia": "Sepia-1",
+		"Sepia2": "Sepia-2",
+		"Shape": "Shape",
+		"Sharpen": "Sharpen",
+		"Square": "Square",
+		"Star-1": "Star-1",
+		"Star-2": "Star-2",
+		"Straight": "Straight",
+		"Stroke": "Stroke",
+		"Text": "Text",
+		"Text size": "Size",
+		"Threshold": "Threshold",
+		"Tint": "Tint",
+		"Triangle": "Triangle",
+		"Underline": "Underline",
+		"Undo": "Undo",
+		"Value": "Value",
+		"ZoomIn": "Zoom In",
+		"ZoomOut": "Zoom Out",
+		"Hand": "Hand",
+		"History": "History",
+		"DeleteAll": "Delete All",
+		"rotate": "Rotate",
+		"flip": "Flip",
+		"reset": "Reset",
+		"X": "X",
+		"Y": "Y",
+		"Change": "Edit",
+		"Add": "Add",
+		"All": "All",
+		"addIcon": "Add icon",
+		"Remove": "Delete",
+		"RemoveWhite": "Remove White",
+		"ColorFilter": "Color Filter"
+	},
+	"animation kinds": {
+		"without animation": "Without animation",
+		"backIn": {
+			"name": "Back In",
+			"types": {
+				"backInDown": "From top",
+				"backInUp": "From bottom",
+				"backInLeft": "From left",
+				"backInRight": "From right"
+			}
+		},
+		"bounceIn": {
+			"name": "Bounce In",
+			"types": {
+				"bounceIn": "In the center",
+				"bounceInDown": "From top",
+				"bounceInUp": "From bottom",
+				"bounceInLeft": "From left",
+				"bounceInRight": "From right"
+			}
+		},
+		"fadeIn": {
+			"name": "Fade In",
+			"types": {
+				"fadeIn": "In the center",
+				"fadeInDown": "From top",
+				"fadeInUp": "From bottom",
+				"fadeInLeft": "From left",
+				"fadeInRight": "From right"
+			}
+		},
+		"rotateIn": {
+			"name": "Rotate In",
+			"types": {
+				"rotateIn": "In the center",
+				"rotateInDownLeft": "From top left",
+				"rotateInDownRight": "From top right",
+				"rotateInUpLeft": "From bottom left",
+				"rotateInUpRight": "From bottom right"
+			}
+		},
+		"zoomIn": {
+			"name": "Zoom In",
+			"types": {
+				"zoomIn": "In the center",
+				"zoomInDown": "From top",
+				"zoomInUp": "From bottom",
+				"zoomInLeft": "From left",
+				"zoomInRight": "From right"
+			}
+		},
+		"slideIn": {
+			"name": "Slide In",
+			"types": {
+				"slideInDown": "From top",
+				"slideInUp": "From bottom",
+				"slideInLeft": "From left",
+				"slideInRight": "From right"
+			}
+		}
+	},
+	"library-window": {
+		"select": "Save"
+	},
+	"image-library": {
+		"title": "Image library",
+		"create a folder": "Create a folder",
+		"folders": "Folders",
+		"new folder": "New folder",
+		"move to a folder": "Move to folder",
+		"move": "Move",
+		"remove": "Delete",
+		"please wait": "Please wait...",
+		"are you sure that you want to delete a folder": "Are you sure you want to remove the \"{{folderTitle}}\" folder?",
+		"all your images will remain in the uploaded folder": "All your images from this folder will be kept in the \"Uploaded\" section",
+		"content": {
+			"uploaded": {
+				"title": "You haven't uploaded any images yet",
+				"text": "Upload images from your PC, by link, or choose the fitting image from the free library"
+			},
+			"folder": {
+				"title": "There are no images in this folder",
+				"text": "Upload images from your PC or by link"
+			}
+		},
+		"uploaded": {
+			"title": "Uploaded"
+		},
+		"unsplash": {
+			"title": "Free",
+			"disclaimer": "The image is provided by {{startLink}}Unsplash{{endLink}}. Using it, you accept the terms of the service.",
+			"terms": "Learn More",
+			"all categories": "All categories",
+			"categories": {
+				"wallpapers": "Wallpapers",
+				"nature": "Nature",
+				"people": "People",
+				"architecture": "Architecture",
+				"business-work": "Business & Work",
+				"fashion": "Fashion",
+				"food-drink": "Food & Drink",
+				"film": "Film",
+				"health": "Health & Wellness",
+				"interiors": "Interiors",
+				"street-photography": "Street Photography",
+				"technology": "Technology",
+				"textures-patterns": "Textures & Patterns",
+				"travel": "Travel",
+				"animals": "Animals",
+				"athletics": "Athletics",
+				"arts-culture": "Arts & Culture",
+				"spirituality": "Spirituality",
+				"history": "History"
+			}
+		},
+		"social": {
+			"title": "Social Networks",
+			"no connected social networks": "You haven't connected any social networks yet",
+			"add your social network images": "Add your pictures from social networks",
+			"connect to network": "Connect account",
+			"no albums with images": "There are no albums with images",
+			"number of photos": "{{count}} images"
+		}
+	},
+	"socials": {
+		"disconnect social network": "Disconnect social network",
+		"vkontakte": {
+			"name": "VK"
+		},
+		"facebook": {
+			"name": "Facebook"
+		},
+		"instagram": {
+			"name": "Instagram"
+		}
+	},
+	"nothing found by query": "Nothing found for the keyword \"{{query}}\"",
+	"try to change a query": "Please try again with some different keywords",
+	"clear search field": "Reset search",
+	"oops error": "Oops... something went wrong",
+	"we are currently working on problem": "We're so sorry and are working as quickly as possible to fix the problem."
+}

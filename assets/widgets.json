@@ -1,0 +1,2294 @@
+{
+	"common": {
+		"show": "Show",
+		"alignment": "Alignment",
+		"design N": "Design %1",
+		"replace": "Replace",
+		"design settings": {
+			"by default": "By default",
+			"on hover": "On hover",
+			"scale": {
+				"name": "Zoom",
+				"title": "Zoom settings"
+			},
+			"rotation": {
+				"name": "Rotation",
+				"title": "Rotation settings"
+			},
+			"opacity": {
+				"name": "Opacity",
+				"title": "Opacity settings"
+			},
+			"color": {
+				"name": "Color"
+			},
+			"brightness": {
+				"name": "Brightness",
+				"title": "Brightness settings"
+			},
+			"background": {
+				"name": "Background color",
+				"title": "Background settings"
+			},
+			"separator": {
+				"name": "Separator",
+				"title": "Separator settings"
+			},
+			"icon": {
+				"name": "Icon",
+				"title": "Icon settings"
+			},
+			"paddings": {
+				"name": "Paddings",
+				"title": "Padding settings",
+				"left_right": "Left and right",
+				"top_bottom": "Top and bottom"
+			},
+			"animation": {
+				"name": "Animation ",
+				"title": "Animation settings",
+				"linear": "Linear",
+				"ease": "Quick start",
+				"ease_in": "Slow start",
+				"ease_out": "Slow end",
+				"delay": "Delay",
+				"delay_val": "s",
+				"acceleration": "Easing",
+				"duration": "Period",
+				"duration_val": "s"
+			},
+			"hover effects": {
+				"title": "Hover effects"
+			},
+			"opaqueness": {
+				"name": "Opacity",
+				"title": "Opacity settings"
+			},
+			"size": {
+				"name": "Size"
+			},
+			"typography": {
+				"title": "Text formatting",
+				"text_style": "Text style",
+				"size": "Size"
+			},
+			"thickness": {
+				"name": "Thickness",
+				"of lines": "Line thickness"
+			},
+			"shadow": {
+				"x": "x",
+				"y": "y",
+				"blur": "Blur",
+				"spread": "Spread"
+			}
+		},
+		"special-404-header": "The requested page was not found",
+		"special-404-header2": "Not found",
+		"special-404-text": "Perhaps, you have entered the wrong URL or the requested page has been moved. You can return to the homepage or use the menu.",
+		"special-404-button": "To the homepage",
+		"coming soon settings": {
+			"title": "For mobile version",
+			"description": "More settings are coming soon"
+		},
+		"go to knowledge base": "Go to Knowledge Base",
+		"drop settings": "Reset to default",
+		"decoration": "Style",
+		"link": "Link"
+	},
+	"header": {
+		"name": "Heading",
+		"description": "Headings help to organize text, group information and facilitate reading."
+	},
+	"odnoklassnikiLikeBox": {
+		"name": "Odnoklassniki",
+		"description": "Your community or business page on Odnoklassniki",
+		"title": "Odnoklassniki Widget",
+		"link group": "Your group ID",
+		"link_note": "You can find the ID of your group on %1Odnoklassniki%2 in the group settings under &laquo;General settings&raquo;.",
+		"help_1": "You must be the administrator of the group.",
+		"help_2": "Open your group.",
+		"help_3": "Find the &laquo;Change settings&raquo; option under the group avatar to the left. Select it.",
+		"help_4": "Find &laquo;ID of this Odnoklassniki group:&raquo; at the bottom of the page.",
+		"help_5": "Copy the ID and paste it into the &laquo;Your group ID&raquo; box.",
+		"show_help": "Show guide",
+		"hide_help": "Hide guide"
+	},
+	"wysiwyg": {
+		"name": "Text",
+		"description": "Basic content of any website. You can choose the text style, formatting, and color.",
+		"start writing": "Start typing"
+	},
+	"dynamicText": {
+		"name": "Dynamic text",
+		"edit text": "Edit dynamic text",
+		"adding text": "Add dynamic text",
+		"incorrect param": "Invalid URL parameter, please use only Latin characters and numbers",
+		"param exists": "This URL parameter already exists",
+		"example": "For example, mysite.ukit.me/?<b>utm_term</b>=NewYork",
+		"enter param url": "Enter the URL parameter that will generate a variable name",
+		"url param": "URL parameter",
+		"var name": "Variable name",
+		"inserted into constructor": "The variable is used where dynamic text should be displayed",
+		"default text": "Default text",
+		"apear when param not mentioned": "Displayed when the ?%1 parameter is not specified",
+		"add text": "Create the dynamic text",
+		"insert generic var to constructor": "and paste the generated variable into the builder",
+		"add": "Add",
+		"var has copied": "The variable has been copied, now just paste it into the text",
+		"copy": "Copy",
+		"insert to text": "Paste into text",
+		"edit": "Edit",
+		"remove": "Remove",
+		"cancel": "Cancel",
+		"save": "Save",
+		"incorrect number": "The variable name of the dynamic text can't contain numbers"
+	},
+	"imagezoom": {
+		"name": "Basic Image",
+		"nameNew": "Image",
+		"description": "Upload a custom image or choose one from our library.",
+		"settings": "Settings",
+		"action click": "Action on click",
+		"zoom": "Zoom",
+		"link": "Link",
+		"alt placeholder": "Enter a caption",
+		"show sign": "Caption",
+		"hover": "On hover",
+		"under image": "Under the image",
+		"size": "Size",
+		"align": "Alignment",
+		"replace": "Change",
+		"not": "None"
+	},
+	"gallery": {
+		"name": "Gallery",
+		"description": "It will help you beautifully organize and display photos and other images.",
+		"none": "Nothing",
+		"lightbox": "Open in a modal window",
+		"link": "Follow the link.",
+		"slide control": "Slide switcher",
+		"autocroll": "Autoscroll",
+		"vertical": "Vertical",
+		"alt image slider": "Alt attribute",
+		"description image slider": "Caption",
+		"horizontal": "Horizontal",
+		"top": "Top",
+		"bottom": "Bottom",
+		"animation slide": "Animation",
+		"overlay": "Overlay",
+		"upload": {
+			"add": "Add",
+			"drop": "Drag a file here",
+			"drop replace": "Drag a file here",
+			"addLib": "Add from the library"
+		},
+		"zoom by click": "Click to enlarge",
+		"title effect under image": "Under the image",
+		"title effect hover": "On hover",
+		"slideshow": "Slideshow",
+		"orientation gallery": "Orientation",
+		"grid": "Grid",
+		"collage": "Collage",
+		"speed": "Speed",
+		"speedTime": "s",
+		"slide": "Slide to left",
+		"fade": "Fade",
+		"goDown": "Slide down",
+		"backSlide": "Zoom",
+		"enter the text": "Enter text",
+		"enter a caption": "Enter a caption",
+		"click": "Click",
+		"arrows": "Show arrows",
+		"previews": "Show thumbnails"
+	},
+	"gallery2": {
+		"name": "Gallery",
+		"description": "It will help you beautifully organize and display photos and other images.",
+		"type": "Type",
+		"grid": "Grid",
+		"slider": "Slider",
+		"preset": "Collage",
+		"options": "Settings",
+		"type of preset": "Design",
+		"text in preset only over": "In collages, captions are displayed only over the image",
+		"upload": {
+			"add": "Add",
+			"drop": "Drag a file here",
+			"drop replace": "Drag a file here",
+			"addLib": "Add from the library"
+		},
+		"button": {
+			"title": "Arrows",
+			"type": {
+				"noBackground": "No background",
+				"border": "With border",
+				"background": "With background",
+				"backgroundOpacity": "With background and opacity"
+			}
+		},
+		"pagination": {
+			"title": "Navigation design",
+			"type": {
+				"circle": "Dots",
+				"square": "Boxes",
+				"line": "Lines",
+				"fraction": "Numbers",
+				"preview": "Thumbnails"
+			},
+			"preview": {
+				"focus": "Highlight",
+				"underline": "Underline",
+				"border": "Border"
+			},
+			"size": {
+				"title": "Size",
+				"small": "small",
+				"medium": "medium",
+				"large": "large"
+			}
+		},
+		"text": {
+			"title": "Caption",
+			"type": {
+				"over": "Over the image",
+				"under": "Under the image",
+				"hover": "On hover"
+			},
+			"position": {
+				"title": "Text position",
+				"middle": "Center",
+				"bottom": "Bottom"
+			}
+		},
+		"autoplay": {
+			"title": "Autoscroll",
+			"delay": "Speed",
+			"delayTime": "s"
+		},
+		"cycle": {
+			"title": "Loop mode"
+		},
+		"action": "Preview on click",
+		"margin": {
+			"title": "Image paddings"
+		},
+		"count of cols": "Number of columns",
+		"animation": "Animation",
+		"slide": "Slide to left",
+		"fade": "Fade",
+		"color": "Color",
+		"overlay": "Color overlay",
+		"opacity": "Opacity",
+		"align": "Alignment",
+		"position": "Position",
+		"inside": "Inside the slider",
+		"preview": "Active thumbnail",
+		"placeholder": "Enter a caption",
+		"edit gallery": "Edit gallery",
+		"coming soon": "More settings are coming soon",
+		"for device": {
+			"tablet": "For tablet version",
+			"phone": "For mobile version"
+		}
+	},
+	"sliderWysiwyg": {
+		"name": "Slider",
+		"animation": "Animation",
+		"animation placeholder": "Select",
+		"start writing": "Start typing",
+		"slideTypeEffect": {
+			"slide": "Slide to left",
+			"fade": "Fade",
+			"goDown": "Slide down",
+			"backSlide": "Zoom"
+		},
+		"limit slide": "Slides left:",
+		"options text edit": "Text settings",
+		"option show slide": "Show on the slider",
+		"option setting": "Settings",
+		"autoScroll": "Autoscroll",
+		"speed": "Speed",
+		"speedTime": "s",
+		"controlsType": "Slide switcher",
+		"controlsTypeView": {
+			"click": "Click",
+			"arrows": "Show arrows"
+		},
+		"pagination": "Show dots",
+		"elements": "Elements",
+		"imageOpt": "Image",
+		"overlay": "Overlay",
+		"textOpt": "Text",
+		"buttonOpt": "Button",
+		"btnForm": {
+			"title": "Button settings",
+			"style": "Design",
+			"button": "Button",
+			"buttonSize": "Button size",
+			"btnSize": {
+				"small": "Small",
+				"middle": "Medium",
+				"large": "Large"
+			},
+			"btnOpt": "Settings",
+			"btnCaption": "Text",
+			"btnCaptionPlaceholder": "Enter a title",
+			"btnLink": "Link"
+		},
+		"imageForm": {
+			"crop": "Crop",
+			"title": "Image settings"
+		},
+		"overlayForm": {
+			"position overlay": "Center background",
+			"position elemtnts": "Alignment of elements",
+			"color": "Color",
+			"opacity": "Opacity",
+			"color overlay": "Overlay color",
+			"title": "Overlay text settings"
+		},
+		"add image": "Add slide",
+		"upload": {
+			"add": "Add",
+			"drop": "Drag a file here",
+			"addLib": "Add from the library"
+		},
+		"description": "Contains slides. Each slide may have custom text and design.",
+		"errors": {
+			"error on save": "An error has occurred while saving."
+		}
+	},
+	"button": {
+		"name": "Basic Button",
+		"description": "A button to design a call to action or a link."
+	},
+	"icon": {
+		"name": "Icon",
+		"description": "Icons are good to highlight key points in texts.",
+		"settings": "Settings",
+		"alignment": "Alignment",
+		"icon size": "Size",
+		"size": "Size",
+		"icon color": "Color",
+		"change": "Change",
+		"add your own": "Add icon",
+		"select icon size": "Select icon size",
+		"icon click event": "Action on click",
+		"icon none": "None",
+		"icon link": "Link",
+		"transparency": "Opacity",
+		"scale": "Zoom",
+		"rotation": "Rotation",
+		"brightness": "Intensity",
+		"normal": "By default",
+		"hover": "On hover",
+		"darker": "darker",
+		"lighter": "lighter",
+		"timing function": "Easing",
+		"hover effects": "Hover effects",
+		"animation settings": "Animation settings",
+		"animation duration": "Speed (secs)",
+		"animation delay": "Delay (secs)",
+		"linear": "Steady speed (linear)",
+		"ease": "Quick start (ease)",
+		"ease-in": "Slow start (ease-in)",
+		"ease-out": "Slow end (ease-out)",
+		"dialog": {
+			"new": "New",
+			"common": "General",
+			"file types": "File types",
+			"currency": "Currency",
+			"directions": "Directions",
+			"brands": "Brands",
+			"add new": "Add a new icon",
+			"title": "Icon library"
+		}
+	},
+	"goods": {
+		"name": "Basic Card",
+		"design": "Design",
+		"description": "Use for descriptions of products, services, features, offers, etc.",
+		"show": "Show on card",
+		"image": "Image",
+		"picture": "Image",
+		"change": "Replace",
+		"icon": "Icon",
+		"title": "Title",
+		"desc": "Description",
+		"cost": "Price",
+		"button": "Button",
+		"settings": "Settings",
+		"icon size": "Icon size",
+		"color": "Color",
+		"default": "By default",
+		"tariff": "Design #1",
+		"card": "Design #2",
+		"tour": "Design #3",
+		"feature": "Design #4",
+		"service": "Design #5",
+		"tweaks": "Advanced settings",
+		"link": "Clickable area",
+		"button and picture": "Image and button",
+		"all card": "Whole card"
+	},
+	"price": {
+		"name": "Price List",
+		"description": "A list of your products and services with short descriptions and prices.",
+		"show": "Show",
+		"price name": "Price list title",
+		"columns": "Columns",
+		"fields": "Fields",
+		"settings": "Settings",
+		"button": "Button",
+		"select button size": "Select button size",
+		"button size": "Button size",
+		"small button": "Small",
+		"middle button": "Medium",
+		"large button": "Large",
+		"add row": "Add line",
+		"add column": "Add column",
+		"remove row": "Remove row",
+		"remove column": "Remove column",
+		"item name": "Product",
+		"item price": "$10",
+		"item description": "Product description",
+		"item extra": "Additional field",
+		"vertical": "Vertical",
+		"horizontal": "Horizontal",
+		"item caption": "Learn More",
+		"sort": "Drag to rearrange"
+	},
+	"review": {
+		"name": "Reviews",
+		"description": "1 to 9 reviews of your products, services, or work.",
+		"design": "Design",
+		"show in review": "Show in reviews",
+		"show": "Show",
+		"avatar": "Avatar",
+		"description field": "Description",
+		"add": "Add",
+		"add review": "Add review",
+		"select design": "Select a design",
+		"change": "Change",
+		"link": "Link",
+		"other email": "Additional email"
+	},
+	"downloadFile": {
+		"name": "File",
+		"description": "A document, software, or any other file that can be downloaded from your website.",
+		"like file": "Download file",
+		"like link": "Open in the current window",
+		"like link target blank": "Open in a new window",
+		"on click action": "Action on click"
+	},
+	"ecwid": {
+		"name": "Ecwid",
+		"description": "Online store widget by Ecwid",
+		"truestory": "Ecwid is a powerful and affordable service to create an online store on your website.",
+		"bindtitle": "Ecwid account",
+		"example": "E.g.",
+		"search": "Search",
+		"showSearch": "Enable search",
+		"grid": "Grid",
+		"list": "List",
+		"table": "Table",
+		"shopId": "Store ID",
+		"createAcc": "Create an account",
+		"columns": "Columns",
+		"rows": "Rows",
+		"account": "Account",
+		"plan": "Plan",
+		"unbind": "Disconnect",
+		"unbindAcc": "Disconnect account",
+		"sureUnbind": "The widget will stop displaying<br>the products of the account",
+		"bindAcc": "Connect account",
+		"bind": "Connect",
+		"storeSetup": "Set up on Ecwid",
+		"ihave": "I have an account",
+		"ihavent": "Hide",
+		"show": "Display",
+		"email": "Email",
+		"email-detail": "Email address",
+		"email-error": "This email is already registered in Ecwid",
+		"email-bad": "Invalid email",
+		"pass": "Password",
+		"pass-detail": "Use 5 characters or more",
+		"create": "Create",
+		"how-get-id": "Where to find your store ID?",
+		"get-id-help": "Log in to the %1Ecwid Control Panel%2 and copy the store ID from the bottom left corner."
+	},
+	"slideshare": {
+		"name": "SlideShare",
+		"description": "The service to share presentations, text documents and videos.",
+		"insert_link": "Link to a presentation",
+		"link_note": "Enter the link to a %1Slideshare%2 presentation.",
+		"decor": "Style",
+		"border": "Border",
+		"err_res": "No presentations found.",
+		"err_link": "Invalid link",
+		"no_slides": "Unable to retrieve the requested document.",
+		"default_link": "http://www.slideshare.net/ukit_official/slideshare-en-60161613"
+	},
+	"mailchimp": {
+		"name": "MailChimp",
+		"description": "The service to send automated emails. Add the form to your website for visitors to subscribe to your newsletters.",
+		"truestory": "To start using the %1MailChimp%2 emailing service you need to сonnect an existing account or create a new one.",
+		"authorize": "Connect account",
+		"deauthorize": "Disconnect account",
+		"create_acc": "Create an account",
+		"acc_setup": "Set up on MailChimp",
+		"account": "Account",
+		"signout": "Disconnect",
+		"sure_signout": "The widget will stop working<br>without an account",
+		"list": "List",
+		"list_note": "Select a list to which a user will be subscribed after entering their email",
+		"change": "Change",
+		"pick_list": "Select a list",
+		"make_list": "Create lists",
+		"ihave_lists": "Use existing mailing lists",
+		"update_lists": "Update list",
+		"decor": "Show",
+		"use": "Use",
+		"use hint": "When you enable Double Opt-in, users must confirm their consent to being included in the mailing list by responding to the automatically sent email. Users are not added to newsletters until they confirm their consent. Attention! This option may not work properly with Gmail, that's why the activation of this option is not recommended.",
+		"show_title": "Title",
+		"all_fields": "Additional fields",
+		"use_doubleOptIn": "Double Opt-in",
+		"email": "Email",
+		"first_name": "First name",
+		"last_name": "Last name",
+		"badmail": "Invalid email",
+		"success": "You have successfully subscribed!",
+		"exists": "This email is already in the list.",
+		"title": "Title",
+		"subscribe": "Subscribe",
+		"list subscription": "Newsletter subscription",
+		"confirmation sended": "A confirmation link has been sent to your email address",
+		"successfully subscribed": "You have subscribed to the newsletter"
+	},
+	"ucalc": {
+		"name": "Cost Сalculator",
+		"description": "uCalc service helps you calculate the cost of complex services",
+		"truestory": "Create a %1calculator%2 to estimate the cost of services",
+		"authorize": "Connect account",
+		"deauthorize": "Disconnect account",
+		"create_acc": "Create account",
+		"acc_setup": "Go to uCalc",
+		"account": "Account",
+		"signout": "Disconnect",
+		"sure_signout": "The widget will stop working<br>without an account",
+		"calc": "Calculator",
+		"change": "Change",
+		"pick_calc": "Choose calculator",
+		"make_calc": "Create and save a calculator for your website in the %1uCalc Control Panel%2",
+		"href truestory": "https://ucalc.pro/en/?utm_source=ukit.com&utm_medium=widget&utm_campaign=ukit_widget_to_create_calc",
+		"href create_acc": "https://ucalc.pro/en/?utm_source=ukit.com&utm_medium=widget&utm_campaign=ukit_widget_to_create_acc#reg",
+		"href make_calc": "https://ucalc.pro/en/?utm_source=ukit.com&utm_medium=widget&utm_campaign=ukit_widget_to_dashboard",
+		"ihave_calcs": "I have saved the calculator",
+		"update_calcs": "Update list",
+		"do_want_acc": "Connect your uCalc account to embed the calculator"
+	},
+	"video": {
+		"name": "Video",
+		"description": "Allows videos from YouTube or any other video hosting service to be posted on the website.",
+		"the_link": "Video link",
+		"insert_link": "Paste the link to a video.",
+		"truestory": "Paste the link to a video from %2YouTube%1, %3Vimeo%1, or %5Facebook%1",
+		"video_progress": "Processing video...",
+		"link_progress": "The link is being processed...",
+		"link_added": "The link has been successfully processed.",
+		"err_empty": "Please fill in the field",
+		"err_link": "Invalid video link",
+		"extend options": {
+			"show": "Show",
+			"related video at the end": "Related video to play next",
+			"player control panel": "Player controls",
+			"video title and action bar": "Video title and player actions",
+			"additionally": "More",
+			"autoplay": "Autoplay"
+		},
+		"video aspect ratio": "Aspect ratio"
+	},
+	"audio": {
+		"name": "SoundCloud",
+		"description": "Add tracks from the SoundCloud service to your website.",
+		"link on audio": "Link to a track",
+		"enter link on audio": "Paste a link",
+		"enter link on audio from": "Paste the link to an audio track from <a href=\"https://soundcloud.com/\" target=\"_blank\">SoundСloud</a>",
+		"invalid url": "Invalid track link",
+		"invalid url or forbidden": "Invalid track link. Perhaps this track is not cleared for publication.",
+		"link in progress": "The link is being processed...",
+		"link is added": "Track successfully added",
+		"link removed": "The link has been removed."
+	},
+	"maps": {
+		"name": "Map",
+		"description": "Specify the working hours, floor, and other useful information.",
+		"map provider": "Map type",
+		"providers": {
+			"google maps": "Google Maps",
+			"yandex maps": "Yandex.Maps",
+			"bing maps": "Bing Maps",
+			"google maps embed": "Google Embed maps"
+		},
+		"place": "Place",
+		"settings": "Settings",
+		"address and coordinates": "Address or location coordinates",
+		"text on marker": "Text on the map marker",
+		"map design": "Map style",
+		"map style": "Map style",
+		"view": "Options",
+		"show on map": "Show on the map",
+		"map type": "Map type",
+		"map zoom": "Show zoom slider",
+		"map move": "Move map",
+		"fix map": "Lock the map",
+		"navigation": "Navigation",
+		"panaram": "Street view",
+		"marker N": "Marker %1",
+		"styles": {
+			"standard": "Default",
+			"black-white": "Black and white",
+			"yellow": "Yellow",
+			"shift worker": "Grey",
+			"muted-blue": "Blue",
+			"nature": "Nature",
+			"old-dry-mud": "Brown",
+			"really-cool-map": "Cool",
+			"dark": "Dark"
+		},
+		"addMarker": "Add map marker",
+		"markers": "Map markers",
+		"errors": {
+			"searchinng address error": "Address not found",
+			"searchinng coordinates error": "Coordinates not found",
+			"you should have at least one active marker": "Error, you must have at least one active map marker"
+		},
+		"delete marker": "Remove map marker",
+		"placeholder": "Description",
+		"title": "Heading",
+		"overlay color": "Color overlay",
+		"get api key for google maps": "To use <a href='https://cloud.google.com/maps-platform/#get-started' target='_blank'>Google Maps</a>, get an API key",
+		"get api key for yandex maps": "To use <a href='https://developer.tech.yandex.ru/' target='_blank'>Yandex Maps</a>, get an API key",
+		"api key instruction link": "Guide on how to get an API key",
+		"api key": "API key",
+		"api key not found": "API key not found",
+		"no api key notice yandex": "The terms of the operation of Yandex.Maps have been updated. For the further correct operation, <a href='https://developer.tech.yandex.ru/' target='_blank'>create a unique API key</a>. Next, paste the created key into the Map widget.",
+		"yandex api key description": "The Terms of Use of Yandex.Maps will be updated soon. To continue using it, register an API key"
+	},
+	"feedBack": {
+		"name": "Contact Form",
+		"description": "Use this widget to create a contact form, an application form, a review form, etc.",
+		"unconfirmed1": "You can't receive messages through a contact form. Your email hasn't been confirmed.",
+		"unconfirmed2": "To confirm your email, check your Inbox and click the link provided.",
+		"send": "%1Resend confirmation message%2",
+		"sent": "Confirmation sent",
+		"other": "Additional email",
+		"set_required": "Set as required",
+		"set_optional": "Set as optional",
+		"select_popup_placholder": "Enter items separated by a comma",
+		"select_popup_title": "List items",
+		"design_horizontal": "Horizontal",
+		"design_vertical": "Vertical",
+		"field_select": "Select field type",
+		"remove": "Remove",
+		"attach file": "Attach file",
+		"userAgreement": {
+			"title": "Terms & Conditions",
+			"label": "<p>I agree to the terms of the <a href=\"/__user_agreement\" target=\"_blank\" rel=\"nofollow\">User Agreement</a> and the <a href=\"/__privacy_policy\" target=\"_blank\" rel=\"nofollow\">Privacy Policy</a></p>",
+			"auto checked": "Enabled by default",
+			"collect agreement": "Checkbox settings"
+		},
+		"fields": {
+			"header": {
+				"title": "Title"
+			},
+			"name": {
+				"title": "Name",
+				"placeholder": "Name"
+			},
+			"email": {
+				"title": "Email",
+				"placeholder": "Email"
+			},
+			"theme": {
+				"title": "Subject",
+				"placeholder": "Subject"
+			},
+			"phone": {
+				"title": "Phone",
+				"placeholder": "+1(234)-567-89-90"
+			},
+			"captcha": {
+				"title": "Security code",
+				"placeholder": "Security code"
+			},
+			"message": {
+				"title": "Message",
+				"placeholder": "Message"
+			},
+			"inputs": {
+				"title": "Field",
+				"placeholder": "Field"
+			},
+			"attachments": {
+				"title": "File",
+				"placeholder": "File"
+			},
+			"large": {
+				"title": "Your message",
+				"placeholder": "Enter your message here..."
+			},
+			"small": {
+				"title": "Small field",
+				"placeholder": "Small field"
+			},
+			"select": {
+				"title": "Drop-down list",
+				"placeholder": "Select field"
+			}
+		},
+		"afterMail": {
+			"title": "Message displayed after sending",
+			"text": "Thank you! Your message has been sent."
+		},
+		"receiver": {
+			"title": "Send to"
+		},
+		"mail": {
+			"header": "Hello,",
+			"main_text": "A visitor has just filled out the contact form on your website <a href='%1' target='_blank'>%1</a>.",
+			"show_msg": "Please see the message below:",
+			"subject": "New message sent through the contact form %1",
+			"subject default form": "feedback",
+			"response": "Reply to"
+		},
+		"amoCRM": {
+			"title": "Lead from the form: %1",
+			"title default form": "Feedback"
+		},
+		"boardCRM": {
+			"title": "Lead from form: \"%1\"",
+			"title default form": "Feedback"
+		},
+		"error": {
+			"email": "Invalid email address.",
+			"phone": "Invalid phone number.",
+			"name": "Invalid name",
+			"theme": "Invalid subject",
+			"message": "Invalid message",
+			"inputs": "One of the fields filled in incorrectly",
+			"site_empty": "The website couldn't be identified.",
+			"user_email_empty": "Recipient's email is not provided or not verified.  ",
+			"data_empty": "Please fill out the form.",
+			"invalid_instance": "The widget couldn't be identified.",
+			"captcha_failed": "Incorrect security code.",
+			"generic": "The form is filled out incorrectly.",
+			"receiver_email": "Please enter a valid email address"
+		}
+	},
+	"contacts": {
+		"name": "Contact Information",
+		"contact": "Title",
+		"save edit contact": "Contact info saved",
+		"cancel save edit contact": "Contact changes undone",
+		"description": "For displaying your contact details.",
+		"departments": "Locations",
+		"department": "Office %1",
+		"design": "Design",
+		"show": "Show",
+		"title": "Title",
+		"address": "Address",
+		"country": "Country",
+		"city": "City",
+		"district": "District",
+		"street house": "Street, Number",
+		"office": "Office",
+		"state": "State",
+		"phone": "Phone",
+		"skype": "Skype",
+		"email": "Email",
+		"map": "Map",
+		"index": "ZIP/Postal code",
+		"latitude": "Latitude",
+		"longitude": "Longitude",
+		"code": "Code",
+		"extra": "Custom field",
+		"extras": "Additional fields",
+		"add": "Add",
+		"add field": "Add field",
+		"add contact": "Add",
+		"contact editing": "Editing contact details",
+		"contact name": "Title",
+		"fax": "Fax",
+		"organization": "Company name",
+		"use_map": "Mark on the map",
+		"faks": "Fax",
+		"gtalk": "Hangouts",
+		"viber": "Viber",
+		"icq": "ICQ",
+		"additional field": "Custom field",
+		"defaults": {
+			"country": "",
+			"city": "New York",
+			"address": "15 Fulton Street",
+			"office": "",
+			"postcode": "",
+			"latitude": "40.706909",
+			"longitude": "-74.003577",
+			"phone": "+1(23)-45-67-890",
+			"email": "mail@website.com",
+			"skype": "skype"
+		}
+	},
+	"social": {
+		"name": "Social networks",
+		"description": "A set of links to all your social media accounts or groups.",
+		"design": "Design",
+		"select design": "Select a design",
+		"design type 1": "Design #1",
+		"design type 2": "Design #2",
+		"design type 3": "Design #3",
+		"show title widget": "Show",
+		"title widget": "Widget title",
+		"add": "Add",
+		"facebook": "Facebook",
+		"vkontakte": "VK",
+		"instagram": "Instagram",
+		"pinterest": "Pinterest",
+		"twitter": "Twitter",
+		"google": "Google+",
+		"odnoklassniki": "Odnoklassniki",
+		"mailru": "Mail.ru",
+		"yandex": "Moi Krug",
+		"linkedin": "LinkedIn",
+		"youtube": "YouTube",
+		"enter the address": "Enter a link",
+		"viber": "Viber",
+		"telegram": "Telegram",
+		"whatsapp": "WhatsApp",
+		"tumblr": "Tumblr"
+	},
+	"socialGroups": {
+		"name": "VK",
+		"description": "Displays followers of your community on VK.",
+		"info": "VK widget",
+		"link": "Link",
+		"link group": "Link to the page",
+		"link in progress": "Search group ...",
+		"group_fail": "Community not found",
+		"link is added": "The group has been added",
+		"link_note": "Enter the link to a group or a public page on {{linkstart}}VK{{linkend}}",
+		"color": "Design",
+		"color default": "Custom colors",
+		"color background": "Background color",
+		"color caption": "Text color",
+		"color button": "Button color"
+	},
+	"pinterest": {
+		"name": "Pinterest",
+		"description": "Pictures from your boards on Pinterest.",
+		"insert_link": "Link to a board",
+		"link_note": "Enter the link to a %1Pinterest%2 board.",
+		"err_res": "No pins found.",
+		"err_link": "Invalid link",
+		"photo_size": "Size of photos",
+		"small": "Small",
+		"medium": "Medium",
+		"large": "Large",
+		"default_link": "http://pinterest.com/pinterest/"
+	},
+	"instagram": {
+		"name": "Instagram",
+		"description": "Photos of your Instagram account.",
+		"authorize": "Connect account",
+		"deauthorize": "Disconnect account",
+		"account": "Account",
+		"signout": "Disconnect",
+		"sureSignout": "The widget will stop working<br>without an account",
+		"truestory": "Connect the %1Instagram%2 account to display your photo feed",
+		"input_source": "A link, a username, or a #hashtag.",
+		"source_note": "Enter a username, or the link to an %1Instagram%2 page, or any hashtag.",
+		"err_login": "This username was not found.",
+		"err_hash": "No posts were found with this hashtag.",
+		"err_link": "Invalid link",
+		"photo_popup": "Grid",
+		"posts_only": "Photo feed",
+		"photo_count": "Number of photos",
+		"photo_size": "Size of photos",
+		"small": "Small",
+		"medium": "Medium",
+		"large": "Large",
+		"settings": "Show",
+		"showTitle": "Title",
+		"defaultTitle": "Our Instagram feed",
+		"profile": "Profile",
+		"noPhotos": "There are no photos or videos yet!",
+		"noAccount": "Connect the account to display photos",
+		"post_likes": "Likes",
+		"post_comments": "Comments",
+		"decor": "Design",
+		"background": "Background",
+		"border": "Border"
+	},
+	"socialShare": {
+		"name": "AddThis",
+		"description": "Helps visitors quickly post links on&nbsp;social media.",
+		"title": "uKit.com",
+		"addthis account info": "Register %1 an AddThis account%2 to view the statistics.",
+		"addthis account info more": "To use the buttons of your AddThis account paste the generated code from %1.",
+		"how get code": " %1 How to get the code %2 ",
+		"how get code titles": {
+			"after reg": "Log in and click on 'Dashboard'",
+			"get code": "Click on 'Get the Code'",
+			"copy code": "Copy the generated code",
+			"paste code": "Paste it into the 'CODE' field"
+		}
+	},
+	"socialShareYa": {
+		"name": "Ya.Share",
+		"title": "uKit.com",
+		"description": "Helps visitors quickly post links on social media.",
+		"design buttons": "Button Design",
+		"alignment": "Alignment",
+		"buttons": {
+			"none": "Icons only",
+			"small": "Small",
+			"button": "Button",
+			"link": "Link",
+			"icon": "Icons and menu",
+			"default": "Default",
+			"dark": "White",
+			"counter": "Counter"
+		},
+		"buttons size": "Button size",
+		"small buttons": "Small",
+		"large buttons": "Large"
+	},
+	"spacer": {
+		"name": "Space",
+		"description": "Creates an empty space between widgets.",
+		"service settings": "Settings",
+		"show borders in the constructor": "Show borders of all spaces in the&nbsp;builder",
+		"minimum": "Minimum: %1",
+		"height": "Height",
+		"you can only specify numbers": "You can use numbers only",
+		"the height must be at least": "The height must be %1px or more",
+		"allowable values": "Allowable values: \"true\" or \"false\""
+	},
+	"border": {
+		"name": "Separator",
+		"description": "Will come in handy to separate site elements from each other",
+		"design": "Design"
+	},
+	"mainmenu": {
+		"name": "Menu",
+		"description": "Navigation through the website's pages.",
+		"navigation": "Menu",
+		"item create successfully": "Menu link added",
+		"menu item settings": "Menu link settings",
+		"name field": "Title",
+		"fill menu item name": "Please enter a title for the menu link.",
+		"link": "Link",
+		"Changes menu item canceled": "Menu link changes undone",
+		"menu item settings saved": "Menu link changes saved",
+		"external link": "External URL",
+		"page link": "Site page",
+		"link to external page": "External URL",
+		"select page": "Select a page",
+		"open in new window": "Open in a new window",
+		"nesting": "Nesting",
+		"parent page": "Parent page",
+		"root page": "Root page",
+		"for creating dropdown menu": "Create subpages on the drop-down menu",
+		"save": "Save",
+		"add": "Add menu link",
+		"more": "More",
+		"new item": "New menu link",
+		"fixedMenu": "Fix the menu on top",
+		"background block": "Background color",
+		"opacity": "Opacity"
+	},
+	"worktime": {
+		"name": "Schedule",
+		"design": "Design",
+		"settings": "Settings",
+		"widget title": "Widget title",
+		"description": "Informs visitors of your working hours",
+		"mon": "Monday",
+		"tue": "Tuesday",
+		"wed": "Wednesday",
+		"thu": "Thursday",
+		"fri": "Friday",
+		"sat": "Saturday",
+		"sun": "Sunday",
+		"day off": "Day off",
+		"round the clock": "24 hours a day",
+		"hour, seven days a week": "24 hours a day, seven days a week.",
+		"from": "from",
+		"to": "until"
+	},
+	"facebookLikeBox": {
+		"name": "Facebook",
+		"description": "Displays a feed and followers of your Facebook page.",
+		"link": "Link",
+		"colors": "Colors",
+		"options": "Show",
+		"design": "Design",
+		"color scheme white": "Light",
+		"color scheme dark": "Dark",
+		"link group": "Link to the page",
+		"link_note": "Enter the link to a public page on {{linkStart}}Facebook{{linkEnd}}",
+		"group_fail": "Page not found",
+		"color default": "Default colors",
+		"color background": "Background color",
+		"color caption": "Text color",
+		"color button": "Buttons color",
+		"show border": "Show border",
+		"header": "Mini header",
+		"stream": "Feed",
+		"help popup": "Facebook widget",
+		"show cover": "Cover image",
+		"show faces": "Userpics"
+	},
+	"twitterLikeBox": {
+		"name": "Twitter",
+		"description": "Displays the stream of your Tweets.",
+		"twits user": "Username",
+		"user_note": "Enter a %1Twitter%2 username or paste the link to a Twitter profile.",
+		"twits id widget": "Widget ID",
+		"id_note": "Create a unique widget with the %1Twitter Widgets Configurator%2. Insert the widget ID to have it displayed on the website.",
+		"err_username": "Invalid username",
+		"err_widget": "Invalid widget ID",
+		"options": "Settings",
+		"create widget help1": "Create a unique widget",
+		"create widget help2": "in the Twitter Widgets Configurator",
+		"create widget help3": "Paste an ID to display the widget on the site.",
+		"user id widget": "Your widget ID",
+		"show reply": "Show replies",
+		"tweet limit": "Number of Tweets",
+		"light": "Light",
+		"dark": "Dark",
+		"transparent": "Transparent",
+		"link group": "Link to the page",
+		"help popup": "Twitter widget",
+		"design": "Design",
+		"placeholder user name": "Enter a username"
+	},
+	"bloquote": {
+		"name": "Quote",
+		"description": "Use the widget to present quotes.",
+		"design": "Design",
+		"select design": "Choose a design",
+		"align": "Alignment",
+		"quotes": "Quotation marks",
+		"apostrophe": "Apostrophe",
+		"start writing": "Start typing"
+	},
+	"liveChat": {
+		"name": "LiveChat",
+		"description": "Online chat service to provide real-time support to visitors.",
+		"info anonimus": "You need an account to let visitors contact you through %1LiveChat%2. Connect an existing account or create a new one.",
+		"info auth": "%1 you have been authorized. Go to the %2LiveChat website%3 to talk to visitors",
+		"support for": "Support: %1",
+		"already have account": "Connect LiveChat account",
+		"preview": "Preview",
+		"createAcc": "Create an account",
+		"option LiveChat": "Set up on LiveChat",
+		"tie": "Connect",
+		"unbind_acc": "Remove account",
+		"unbind": "Remove",
+		"unbind_question": "Remove your LiveChat account?",
+		"unbind_note": "The live chat will stop working ",
+		"inactive": "This LiveChat account is not active",
+		"paste you login": "Email"
+	},
+	"liveTex": {
+		"name": "LiveTex",
+		"description": "The service to provide help to customers in real time.",
+		"info anonimus": "You need an account to let visitors contact you through %1LiveTex%2. Connect an existing account or create a new one.",
+		"info auth": "%1 you have been authorized. Go to the %2LiveTex website%3 to talk to visitors.",
+		"support for": "Support: %1",
+		"already have account": "Connect an existing account",
+		"paste you login": "Enter your username"
+	},
+	"newsInformer": {
+		"name": "News Widget",
+		"description": "Displays the latest news",
+		"news": "News",
+		"posts source": "Display posts from",
+		"page descr": "A \"News\" page from which posts for the News Widget are taken.",
+		"design": "Design",
+		"show": "Show",
+		"widget title": "Widget title",
+		"informer title": "Widget title",
+		"image": "Image",
+		"post date": "Publication date",
+		"author": "Author",
+		"comments number": "Number of comments",
+		"posts number": "Number of posts",
+		"no news": "To connect the News Widget, first create a new \"News\" page in the <a href=\"javascript://\" class=\"%1\">Site Pages</a> section.",
+		"post": {
+			"post date": "Published on",
+			"author": "Author",
+			"comments number": "Comments",
+			"readmore": "Read more"
+		}
+	},
+	"googlesearch": {
+		"name": "Google Search",
+		"description": "The Google search box helps your visitors find what they need on your website.",
+		"to start working with googlesearch bind search id": "To set up a Google Search on your website, connect the search engine ID.",
+		"search id": "Search engine ID",
+		"where to get search id": "Where to get the ID?",
+		"how to get search id": "How to get the search engine ID",
+		"connect": "Connect",
+		"disconnect": "Remove",
+		"search only works with indexed pages": "The Google Search works only with the indexed pages. It will take a while for the new pages to be indexed.",
+		"customize on google": "Customize on Google",
+		"if you change domain name": "If you change the domain name, remember to add it to the \"Sites to search\" section on the Google Custom Search settings page.",
+		"go to the search creation page": "Go to the <a href=\"%1\" target=\"_blank\">Google Custom Search</a> home page and paste your website address into the \"Sites to search\" section.",
+		"your website address": "Your website address",
+		"copy": "Copy",
+		"click on Create button and go to control panel": "Click on \"Create\" and then select \"Control Panel\" on the next page:",
+		"and copy you search ID": "Find your search engine ID under \"Details\" and copy it:",
+		"address copied to clipboard": "Address copied to clipboard",
+		"preview": "Preview",
+		"address": "Address"
+	},
+	"jivosite": {
+		"name": "JivoChat",
+		"description": "Talk to the website visitors in real time via a live chat.",
+		"desc": "Talk to your visitors in real time with the %1 live chat.",
+		"email": "Email",
+		"password": "Password",
+		"username": "Name",
+		"connect": "Connect",
+		"unbind_question": "Remove your JivoChat account?",
+		"unbind_note": "The live chat will stop working",
+		"unbind": "Remove",
+		"unbind_acc": "Remove account",
+		"password rules": "At least 6 characters, at least one digit and one uppercase letter.",
+		"username_note": "JivoChat username",
+		"create": "Create",
+		"preview": "Preview",
+		"createAccount": "Create account",
+		"account id": "Account",
+		"how to find": "How to find your %1 ID",
+		"set in": "Set up on %1",
+		"tie": "Connect account",
+		"how to find desc": "Go to the Settings page, open the %1Installation%2 tab and copy your widget_id from the provided code."
+	},
+	"uSocial": {
+		"name": "Share Buttons",
+		"error": "An error has occurred",
+		"error by timeout": "The service is temporarily unavailable",
+		"error by limit": "You already have 10 uSocial sets. If you need more, please contact the Support Team.",
+		"call support": "Contact the Support Team",
+		"description": "Easy-to-use social buttons help to share links to your posts across social media",
+		"noAuthDescription": "Easy-to-use and flexible <a href=\"https://usocial.pro/en/\" target=\"_blank\">buttons</a>. Connect your account to set up the display of the buttons",
+		"authDescription": "You can view <a class=\"js-usocial-stat\" target=\"_blank\">button statistics</a> and enhance your experience with <a href=\"https://usocial.pro/en/get_pro\" target=\"_blank\">premium settings</a> on the website of the service",
+		"account": "Account",
+		"icon design": "Button Design",
+		"form": "Form",
+		"forms": {
+			"round": "Rounded edges",
+			"square": "Square"
+		},
+		"style": "Style",
+		"styles": {
+			"style 1": "Style 1",
+			"style 2": "Style 2",
+			"style 3": "Style 3",
+			"style 4": "Style 4"
+		},
+		"button types": {
+			"networks": "Social",
+			"actions": "Actions"
+		},
+		"item buttons": {
+			"vk": "VK",
+			"fb": "Facebook",
+			"twi": "Twitter",
+			"gPlus": "Google+",
+			"ok": "OK",
+			"mail": "My World",
+			"lj": "LiveJournal",
+			"lin": "LinkedIn",
+			"tumblr": "Tumblr",
+			"pinterest": "Pinterest",
+			"spoiler": "Spoiler",
+			"bookmarks": "Bookmarks",
+			"print": "Print",
+			"email": "Email"
+		},
+		"logout": "Sign out",
+		"create account": "Create account",
+		"bind account": "Connect account",
+		"or": "or",
+		"for mobile": "Mobile version",
+		"show mobile": "Enable mobile version",
+		"buttons": "Buttons",
+		"add": "Add button",
+		"chose button": "Select button",
+		"thin settings": {
+			"title": "Advanced settings",
+			"overlay": "Background",
+			"show overlay": "Show background",
+			"bar state": "Bar state",
+			"bar states": {
+				"collapsed": "Collapsed",
+				"deployed": "Expanded"
+			},
+			"bar size": "Size",
+			"counters": "Counters",
+			"common counter": "Total share counter",
+			"btn counter": "Individual share counters"
+		}
+	},
+	"customHtml": {
+		"name": "HTML Code",
+		"description": "The widget allows to embed and edit custom code on the website pages."
+	},
+	"backCall": {
+		"name": "Callback",
+		"phone connect": "Add a phone number",
+		"we callback later": "Your request has been submitted. We'll get in touch with you soon.",
+		"phone connect description": "Provide a phone number to which you want to receive SMS notifications with callback requests.",
+		"phone check number description": "A message with the verification code has been sent to %1",
+		"phone check replace number": "Add another number",
+		"phone number": "Phone number",
+		"bind": "Add phone number",
+		"show": "Show in the request form",
+		"time call": "Timing options",
+		"username": "Name input field",
+		"user agreement": "Terms & Conditions",
+		"user agreement label": "<p>I agree to the terms of the <a href=\"/__user_agreement\" target=\"_blank\" rel=\"nofollow\">User Agreement</a> and the <a href=\"/__privacy_policy\" target=\"_blank\" rel=\"nofollow\">Privacy Policy</a></p>",
+		"description": "The widget that allows to request a callback from the website.",
+		"response code": "Your verification code %1",
+		"call me": "Callback requested: %1, %2, %3. Time: %4",
+		"not correct number": "This number is already added to the website.",
+		"number connected": "Invalid phone number",
+		"error resend sms": "The verification code will be sent in ",
+		"sending message": "Sending the verification code",
+		"code check": "Verification code",
+		"confirm phone": "Confirm",
+		"resend message": "Resend the verification code",
+		"phone connect success": "The phone number has been added.",
+		"message succesfully": "Your request has been successfully sent. We will contact you within the specified time frame.",
+		"phone": "Phone number",
+		"error confirm": "Invalid verification code",
+		"morning": "8:00 a.m. to 12:00 p.m.",
+		"day": "12:00 p.m. to 5:00 p.m.",
+		"evening": "5:00 p.m. to 9:00 p.m.",
+		"today": "Today",
+		"seconds": "seconds",
+		"tomorrow": "Tomorrow",
+		"soon": "As soon as possible",
+		"today morning": "This morning",
+		"today day": "This afternoon",
+		"today evening": "This evening",
+		"tomorrow morning": "Tomorrow morning",
+		"tomorrow day": "Tomorrow afternoon",
+		"tomorrow evening": "Tomorrow evening",
+		"Time zone": "Time zone",
+		"insert phone": "Provide your phone number, e.g. +1 555 123-4567",
+		"insert username": "Provide the best time to call you",
+		"username name": "",
+		"insert username input": "Enter your name",
+		"like to receive a call": "Timing options",
+		"select to receive a call": "Provide the best time to call you",
+		"remove account": "You will not be able to receive notifications with callback requests",
+		"remove account description": "Remove the phone number",
+		"unbind": "Remove",
+		"unbind_acc": "Remove account",
+		"error send message constructor mode": "You cannot send a callback request in the Builder mode",
+		"error send message": "Error sending the message",
+		"error send timeout": "You cannot send multiple requests over a short period of time",
+		"error send timeout version2": "You can resend the verification code in ",
+		"error send timeout version3": "You can resend the callback request in ",
+		"error send not number": "Please enter your phone number",
+		"error not correct fill input": "The required field is filled out incorrectly",
+		"phone mask placeholder": "+1 555 123-4567",
+		"time description call": "Provide the best time to call you",
+		"cancel replace phone": "Cancel",
+		"edit phone number": "Change phone number",
+		"sending": "Sending the request",
+		"button_decor": "Button design",
+		"color button": "Button color",
+		"animation button": "Button animation",
+		"animation1": "Buzz",
+		"animation2": "Waves",
+		"animation3": "Wobble",
+		"Order": "Request",
+		"data help": "Leave your phone number and we will contact you at the preferred time. ",
+		"connect phone description": "Connect a phone number to which you want to receive notifications with callback requests",
+		"request a call from website": "Request a callback",
+		"dublicate sms to email": "Copy requests to the email",
+		"alter number": "Change number",
+		"back call order": "Request a callback",
+		"mail": {
+			"header": "Hello,",
+			"subject": "New message from your website %1",
+			"main_text": "A visitor of your website <a href='%1' target='_blank'>%1</a> has requested a callback.",
+			"show_msg": "Request details:",
+			"client_name": "Name",
+			"client_phone": "Phone number",
+			"call_time": "Preferred time"
+		}
+	},
+	"addThisShareBar": {
+		"name": "AddThis Sidebar",
+		"description": "A simple tool to add a sidebar with Share buttons to your website.",
+		"settings": "Settings",
+		"icons": "Icons",
+		"buttons number": "Number of icons",
+		"thank you window": "\"Thank you\" window",
+		"show thank you": "Show the window",
+		"post share title": "Window title",
+		"post share follow message": "\"Subscribe\" text",
+		"post share recommended message": "\"Recommended\" text",
+		"color theme": "Color of the \"Hide\" button",
+		"color themes": {
+			"dark": "Dark",
+			"gray": "Grey",
+			"light": "Light",
+			"transparent": "Transparent"
+		},
+		"statistic": "Sharing statistics",
+		"connect": "Connect",
+		"profile id": "Profile ID",
+		"how to connect": "To be able to view the sharing statistics, create an account with <a href\"%1\" target=\"_blank\">AddThis</a> and copy the <a href=\"%2\" target=\"_blank\">Profile ID</a>."
+	},
+	"liveAgent": {
+		"name": "LiveAgent",
+		"description": "An online chat to provide real-time support to visitors.",
+		"info": "Provide live support and answer questions of your visitors through the <a target=\"_blank\" href=\"%1\">LiveAgent</a> chat.",
+		"preview": "Preview",
+		"account": "Account",
+		"account creation": "Create account",
+		"account connected": "Account connected",
+		"full name": "Your full name",
+		"your email": "Your email",
+		"account name": "Account name",
+		"desired account name": "Account name",
+		"create account": "Create account",
+		"account connection": "Connect account",
+		"api key": "API key",
+		"connect account": "Connect account",
+		"where to get api key": {
+			"title": "Where to find API key:",
+			"text": "&mdash; Open the Configuration tab in your LiveAgent account;<br>&mdash; Under Configuration click on System > API;<br>&mdash; Copy the key from the \"Your API key\" field."
+		},
+		"disconnect account": "Remove account",
+		"disconnect LiveAgent account?": "Remove your LiveAgent account?",
+		"online chat will become inactive": "The online chat will become inactive.",
+		"disconnect": "Remove",
+		"help:": "Help:",
+		"customize in live agent admin panel": "Set up on LiveAgent",
+		"buttons list": "Available chat buttons",
+		"it seems, you have no chat buttons": "You haven't created any chats yet.",
+		"create new chat button": "Create a new button",
+		"how to": "How to create a chat button with different styles and colors",
+		"your credentials were sent to your email": "Your account details have been sent to your email address",
+		"default text": {
+			"welcome": "Welcome",
+			"hello": "Hi!",
+			"we are online, you can chat with us": "We are online. Chat with us.",
+			"we are offline, you can message us": "We are offline. You can leave us a message.",
+			"name": "Name",
+			"email": "Email",
+			"message": "Message",
+			"please stand by": "Please wait. You will be redirected to a support agent shortly.",
+			"thanks for question, we will send answer to EMAIL": "Thank you for your question. We will send a reply to %1"
+		},
+		"errors": {
+			"account name is wrong or is already in use": "The account name is invalid or already in use.",
+			"error while checking account name": "An error occurred when verifying your account name",
+			"email is wrong": "Invalid email",
+			"email is already in use": "The email is already in use",
+			"wrong api key": "Invalid API key",
+			"error while checking email": "An error occurred when verifying the email",
+			"error while creating account": "An error occurred when creating the account",
+			"error, try reconnect account": "An error has occurred. Please make sure you provided the correct account name and API key and try to reconnect the account.",
+			"error while retrieving widget": "An error occurred when retrieving the widget",
+			"error while retrieving account progress": "An error occurred when retrieving the status of the created account",
+			"chat button was possibly deleted": "Please make sure the chat button isn't removed. Visitors cannot leave messages.",
+			"error while creating chat button": "An error occurred when creating the chat button",
+			"error, check entered data": "Error. Please check the entered data.",
+			"error, maybe account was suspended": "An error has occurred. The account may have been suspended.",
+			"users can not send messages": "Visitors cannot leave messages.",
+			"auth error": "Authorization error. The API keys must have been changed, please reconnect the account.",
+			"error, check account name": "An error has occurred. Please double-check your account name."
+		}
+	},
+	"yandexSearch": {
+		"name": "Поиск Яндекс",
+		"description": "On-site search",
+		"search id": "Search id",
+		"customize search": "Configure on Yandex",
+		"search work only with indexed pages": "The Yandex Search works only with the indexed pages. It will take a while for the new pages to be indexed.",
+		"if you change domain name": "When you change a domain name, you must add it to the search area on the settings page",
+		"to start working with yandexSearch bind search id": "To set up Yandex Search on your website, connect the search engine ID.",
+		"where the search id can be found": "Where to get the search ID?",
+		"go to the page": "Go to <a href=\"https://site.yandex.ru/searches/new/\" target=\"_blank\">search creation page</a>, click \"Add sites and exceptions\" in the \"Search area\" and paste the address of your website to the \"Sites\" field",
+		"copy site address": "Copy your website address",
+		"next follow all the steps, following instructions": "Next, follow the steps according the instructions",
+		"on the five step": "On the fifth step, copy the search ID of the code and paste it in the \"ID search\" field:",
+		"or copy id from address bar": "or copy the ID from the address bar:",
+		"address copied to clipboard": "Address copied to clipboard"
+	},
+	"timer": {
+		"name": "Timer",
+		"description": "Count down time to the end of a special offer or a product launch.",
+		"timer variant": "Timer option",
+		"type": "Type",
+		"variants": {
+			"to date": "To a specific date",
+			"period": "For a period of time",
+			"cycle": "Repeated",
+			"renewable": "Restart upon page reload"
+		},
+		"count to": "Countdown to",
+		"duration": "Period",
+		"count start": "Start time",
+		"every day on": "Every day at",
+		"days": "days",
+		"hours": "hours",
+		"minutes": "minutes",
+		"seconds": "seconds",
+		"start": "Start",
+		"utc offset": "Time zone",
+		"site owner's": "Website owner's (%1)",
+		"set manually": "Set manually",
+		"timer stop action": "After countdown is over",
+		"do nothing": "Leave timer",
+		"hide timer": "Hide timer",
+		"show text": "Show text",
+		"preview": "Preview",
+		"campaign is over": "The offer has expired",
+		"labels text": "Captions",
+		"designVariants": {
+			"transparent": "Transparent",
+			"light": "Light",
+			"dark": "Dark"
+		},
+		"design settings": "Design",
+		"show": {
+			"days": "Days",
+			"seconds": "Seconds",
+			"labels": "Captions"
+		},
+		"errors": {
+			"invalid date": "Invalid date",
+			"invalid time": "Invalid time"
+		}
+	},
+	"videoBox": {
+		"title": "Add a video",
+		"link to video": "Video link",
+		"truestory": "Paste the link to a video from %2YouTube%1, %3Vimeo%1, or %5Facebook%1",
+		"save": "Add"
+	},
+	"weather": {
+		"name": "Weather",
+		"city default": "New York",
+		"description": "Shows the real-time weather and forecasts for several days for a specific city.",
+		"status cloud": {
+			"partly cloudy": "Partly cloudy",
+			"tornado": "Tornado",
+			"tropical storm": "Tropical storm",
+			"hurricane": "Hurricane",
+			"severe thunderstorms": "Severe thunderstorms",
+			"thunderstorms": "Thunderstorms",
+			"mixed rain and snow": "Mixed rain and snow",
+			"mixed rain and sleet": "Mixed rain and sleet",
+			"mixed snow and sleet": "Mixed snow and sleet",
+			"freezing drizzle": "Freezing drizzle",
+			"drizzle": "Drizzle",
+			"freezing rain": "Freezing rain",
+			"rain": "Rain",
+			"showers": "Showers",
+			"snow flurries": "Snow flurries",
+			"light snow showers": "Light snow showers",
+			"blowing snow": "Blowing snow",
+			"breezy": "Breezy",
+			"snow": "Snow",
+			"hail": "Hail",
+			"sleet": "Sleet",
+			"dust": "Dust",
+			"foggy": "Foggy",
+			"haze": "Haze",
+			"smoky": "Smoky",
+			"blustery": "Blustery",
+			"windy": "Windy",
+			"cold": "Cold",
+			"cloudy": "Cloudy",
+			"mostly sunny": "Mostly sunny",
+			"mostly cloudy (night)": "Mostly cloudy (night)",
+			"mostly cloudy (day)": "Mostly cloudy (day)",
+			"mostly cloudy": "Mostly cloudy",
+			"mostly clear": "Mostly clear",
+			"clear (night)": "Clear (night)",
+			"clear": "Clear",
+			"sunny": "Sunny",
+			"fair (night)": "Fair (night)",
+			"fair (day)": "Fair (day)",
+			"fair": "Fair",
+			"mixed rain and hail": "Mixed rain and hail",
+			"hot": "Hot",
+			"isolated thunderstorms": "Isolated thunderstorms",
+			"scattered thunderstorms": "Scattered thunderstormes",
+			"scattered showers": "Scattered showers",
+			"heavy snow": "Heavy snow",
+			"scattered snow showers": "Scattered snow showers",
+			"thundershowers": "Thundershowers",
+			"snow showers": "Snow showers",
+			"isolated thundershowers": "Isolated thundershowers",
+			"scattered thundershowers": "Scattered thundershowers",
+			"not available": "Not available"
+		},
+		"month": {
+			"jan": "January",
+			"feb": "February",
+			"mar": "March",
+			"apr": "April",
+			"may": "May",
+			"jun": "June",
+			"jul": "July",
+			"aug": "August",
+			"sep": "September",
+			"oct": "October",
+			"nov": "November",
+			"dec": "December"
+		},
+		"day": {
+			"mon": "Monday",
+			"tue": "Tuesday",
+			"wed": "Wednesday",
+			"thu": "Thursday",
+			"fri": "Friday",
+			"sat": "Saturday",
+			"sun": "Sunday"
+		},
+		"error do not have access to weather data": "No access to weather data",
+		"error try later": "Please try again later",
+		"Locality": "Location",
+		"forecast": "Forecast",
+		"forecast show": "Show forecast",
+		"forecast size": {
+			"for one day": "for 1 day",
+			"for 3 days": "for 3 days",
+			"for 7 days": "for 7 days"
+		},
+		"units": "Temperature unit",
+		"background": "Background",
+		"transparent": "Transparent",
+		"color": "Color",
+		"image": "Image",
+		"select a picture": "Choose image",
+		"align": "Alignment",
+		"item extra": "Custom title",
+		"display name": "Enter a title",
+		"it will be displayed as a village": "Will be displayed as a location",
+		"today": "Today",
+		"tomorrow": "Tomorrow"
+	},
+	"productCard": {
+		"name": "Product",
+		"description": "Built-in online store widget by %1",
+		"show": "Show",
+		"picture": "Image",
+		"image": "Image",
+		"icon": "Icon",
+		"icon size": "Icon size",
+		"button cart": "\"Buy\" button",
+		"button page": "\"Learn More\" button",
+		"button settings": "Button settings",
+		"description title": "Caption",
+		"options product": "Product options",
+		"add options": "Add option",
+		"attributes": {
+			"edit": "Edit",
+			"new options": "New option",
+			"name option": "Option name",
+			"value option": "Option value",
+			"add value": "Add value",
+			"markup": "Extra fee",
+			"enter title": "Enter the name",
+			"enter assortiment": "Enter the assortment",
+			"help title": "For example, color",
+			"help option text": "For example, red, blue, or green",
+			"display price option": "Option price display",
+			"price option sum": "Add to the total",
+			"price option fee": "Show as extra fee",
+			"price option hidden": "None"
+		},
+		"alignment": "Alignment",
+		"details": {
+			"select attributes": "Choose product options",
+			"default attribute": "Choose",
+			"quantity": "Quantity"
+		},
+		"product page": "Go to product page",
+		"select product": "Choose product",
+		"hint select product": "Each product is automatically listed in the",
+		"catalog": "product catalog",
+		"show on the popup": "Will be shown in pop-up window",
+		"show on the page": "Will be shown on product page",
+		"click product": "Click on image",
+		"opening a window": "A pop-up window opens<br>\nif product has options",
+		"not or open modal": "Stay on page or open pop-up",
+		"go to product page": "Go to product page",
+		"button in cart": "\"Buy\" button"
+	},
+	"productDetail": {
+		"name": "Advanced product",
+		"description": "Widget for selling products online",
+		"decor": "Style",
+		"Select value": "Choose",
+		"not selected": "Please choose the value",
+		"design": {
+			"title": "Design",
+			"horizontal": "Horizontal",
+			"vertical": "Vertical"
+		},
+		"background": {
+			"title": "Background color",
+			"radius": "Border radius"
+		},
+		"items": {
+			"title": "Show",
+			"header": "Heading",
+			"price": "Price",
+			"timer": "Timer",
+			"sender": "Country of departure",
+			"options": "Product options",
+			"cashOnDelivery": "Cash on delivery",
+			"quantity": "Quantity",
+			"button": "\"Buy\" button",
+			"description": "Description",
+			"slideshow": "Gallery"
+		},
+		"options": {
+			"add": "Add option",
+			"placeholder": "Choose"
+		},
+		"price": {
+			"popup": "Price settings",
+			"priceTitle": "Price",
+			"currentPrice": "Original price",
+			"description": "Price settings can be configured <a href=\"%1\" target=\"_blank\">in the offer settings</a> on AdCombo",
+			"mainPrice": "Original price",
+			"show": {
+				"title": "Show",
+				"old price": "Original price",
+				"discount": "Discount"
+			},
+			"design": {
+				"title": "Style",
+				"style": "Design %1",
+				"color": "Discount background"
+			}
+		},
+		"quantity": {
+			"default": "Quantity",
+			"popup": "Quantity",
+			"design": {
+				"title": "Design",
+				"style": "Design %1"
+			},
+			"remain": {
+				"title": "Remaining items",
+				"input": "Show number of items left",
+				"descr": "Only 11 items left in stock"
+			},
+			"rename": {
+				"title": "Title"
+			}
+		},
+		"button": {
+			"default": "Buy",
+			"popup": "Button settings",
+			"style": "Design",
+			"buttonSize": "Button size",
+			"btnSize": {
+				"small": "Small",
+				"middle": "Medium",
+				"large": "Large"
+			},
+			"design": {
+				"title": "Style",
+				"style 1": "Fill",
+				"style 2": "Outline",
+				"radius": "Border radius"
+			}
+		},
+		"header": {
+			"popup": "Heading",
+			"title": "Heading",
+			"design": {
+				"title": "Style",
+				"color": "Color",
+				"style": "Style",
+				"format": "Formatting"
+			}
+		}
+	},
+	"cart": {
+		"name": "Cart",
+		"description": "Description of the Cart widget",
+		"part design": "Design",
+		"background color": "Notification background color",
+		"icon color": "Icon color",
+		"shadow": "Cart shadow",
+		"on shadow": "Shadow on notification",
+		"icon": "Icon",
+		"show cart": "Show",
+		"show on product pages": "Product pages only",
+		"thin settings": {
+			"title": "Captions",
+			"buttonCheckout": "Checkout button",
+			"buttonClear": "Clear button",
+			"captionCartIsEmpty": "Empty cart",
+			"unitsName": "Unit of measure",
+			"defaults": {
+				"buttonCheckout": "Checkout",
+				"buttonClear": "Clear",
+				"captionCartIsEmpty": "Cart is empty",
+				"unitsName": "item(s)"
+			}
+		}
+	},
+	"checkout": {
+		"name": "Checkout",
+		"description": "Description of the Checkout widget",
+		"units": "item(s)"
+	},
+	"promocode": {
+		"name": "Promo code",
+		"description": "Promo code widget description"
+	},
+	"extendedCart": {
+		"name": "Product list",
+		"description": "Description of the Product List widget",
+		"title": "Title",
+		"quantity": "Quantity",
+		"price": "Price",
+		"in total": "Total",
+		"continue shopping": "Continue shopping"
+	},
+	"shipping": {
+		"name": "Shipping",
+		"description": "Description of the Delivery widget",
+		"free": "free",
+		"no data": "Shipping methods not specified"
+	},
+	"customerInfo": {
+		"name": "User information",
+		"description": "Description of the User Information widget"
+	},
+	"table": {
+		"name": "Table",
+		"description": "Use tables to display large amounts of information in a consistent way.",
+		"new cell": "New cell",
+		"border color": "Border color",
+		"text color": "Text color",
+		"show": "Show",
+		"table head": "Table header"
+	},
+	"handsOnTable": {
+		"name": "PRO Table",
+		"description": "A table that offers a wide range of visual settings and brings the option to copy data and merge cells.",
+		"link": "Link",
+		"richText": {
+			"bold": "Bold",
+			"italic": "Italic"
+		},
+		"button text": "Button text",
+		"button size": "Size",
+		"text": "Text",
+		"show": "Show",
+		"styling": "Styling",
+		"borders": "Gridlines",
+		"fill": "Fill",
+		"header": "Header",
+		"on top": "Top",
+		"on left": "Left",
+		"paddings": "Cell paddings",
+		"vertical": "Top and bottom",
+		"horizontal": "Left and right",
+		"border": "Border",
+		"horizontal lines": "Horizontal lines",
+		"vertical lines": "Vertical lines",
+		"border color": "Gridline color",
+		"show lines": "Apply to",
+		"odd": "Odd",
+		"even": "Even",
+		"background": "Background",
+		"context menu": {
+			"cell type": {
+				"name": "Cell type",
+				"normal text": "Normal text",
+				"style text": "Styled text",
+				"button": "Button"
+			},
+			"alignment": {
+				"name": "Alignment",
+				"left": "Left",
+				"center": "Center",
+				"right": "Right",
+				"justify": "Justify",
+				"top": "Top",
+				"middle": "Middle",
+				"bottom": "Bottom"
+			},
+			"row_below": "Insert row above",
+			"row_above": "Insert row below",
+			"col_left": "Insert column left",
+			"mergeCells": "Merge cells",
+			"unMergeCells": "Unmerge cells",
+			"col_right": "Insert column right",
+			"remove_row": "Remove row",
+			"remove_rows": "Delete rows",
+			"remove_col": "Remove column",
+			"remove_cols": "Delete columns",
+			"copy": "Copy",
+			"cut": "Cut"
+		},
+		"can't remove merged cells": "You cannot remove merged cells"
+	},
+	"uMenu": {
+		"name": "Menu",
+		"description": "Will help you arrange a convenient site navigation and page structure",
+		"decoration": {
+			"title": "Style",
+			"button_title": "Back",
+			"design": "Design",
+			"create_new": "Create new",
+			"menu": "Menu",
+			"primary": "Main",
+			"nested": "Nested",
+			"styles": "Styles",
+			"paddings": "Paddings",
+			"typography": "Text formatting",
+			"kind": "Menu type",
+			"horizontal": "Horizontal",
+			"burger": "Hamburger"
+		},
+		"headerWysiwyg": {
+			"defaultText": "Site name"
+		},
+		"setup": {
+			"title": "Settings",
+			"tabs": {
+				"structure": {
+					"title": "Structure",
+					"alignment": "Alignment",
+					"unplaced_items": {
+						"title": "When line is full",
+						"dropdown": "Nest in a drop-down menu",
+						"next_line": "Move to the next line"
+					}
+				},
+				"paddings": {
+					"title": "Paddings",
+					"between_items": "Between items",
+					"bottom_top": "Top and bottom",
+					"side padding": "Paddings"
+				},
+				"typography": {
+					"title": "Text formatting"
+				}
+			}
+		},
+		"design": {
+			"title": "Design",
+			"dropTabSetup": "Reset to default",
+			"tabs": {
+				"items": {
+					"title": "Items",
+					"principal": "Main item",
+					"active": "Active",
+					"color": {
+						"title": "Color"
+					},
+					"underline": {
+						"title": "Underscore",
+						"item_color": "Item",
+						"underline_color": "Underline"
+					},
+					"slab": {
+						"title": "Background",
+						"item_color": "Item color",
+						"slab_color": "Background color"
+					}
+				},
+				"background": {
+					"title": "Background color",
+					"reverse_transparency": "Opacity"
+				},
+				"nesting": {
+					"title": "Nested",
+					"items_color": "Item color",
+					"principal": "Main item",
+					"active": "Active",
+					"bg_color": "Overlay",
+					"reverse_transparency": "Opacity",
+					"item placeholder": "Nested menu"
+				}
+			}
+		},
+		"mobile design": {
+			"title": "For mobile version",
+			"description": "More settings are coming soon"
+		},
+		"structure": {
+			"add item button": "Add menu link",
+			"create new menu": "Create menu",
+			"new item": "New menu link",
+			"item select": {
+				"title": "Choose menu type",
+				"types": {
+					"item": {
+						"title": "Link",
+						"definition": "To web address, page anchor or pop-up window"
+					},
+					"nested": {
+						"title": "Drop-down menu",
+						"definition": "Empty item to arrange the menu structure"
+					}
+				}
+			},
+			"item_actions": {
+				"change_a_link": "Replace link",
+				"put_in": "Nest",
+				"show": "Show",
+				"hide": "Hide",
+				"delete": "Remove",
+				"delete_tooltip": "All nested items will be kept in the menu"
+			},
+			"popup options": {
+				"title": "Settings",
+				"input title": "Title",
+				"input note": "Service name to display in the menu list",
+				"delete": "Remove"
+			},
+			"logo": {
+				"name": "Logo",
+				"icon": "Icon",
+				"header": "Site name"
+			}
+		},
+		"empty-menu-items": "Add menu items on the left panel"
+	},
+	"payment": {
+		"name": "Payment",
+		"description": "Description of the Payment widget",
+		"free": "Free",
+		"no data": "Please specify payment methods"
+	},
+	"stages": {
+		"name": "Steps",
+		"description": "Horizontal presentation of steps sequence, for example, in the \"How It Works\" block"
+	},
+	"timeline": {
+		"name": "Timeline",
+		"description": "Vertical presentation of steps, for example, in schedules, conference programs, etc."
+	},
+	"steps": {
+		"line": {
+			"not-full": "Line",
+			"full": "Solid line",
+			"arrow": "Arrow"
+		},
+		"icon": {
+			"counter": "Number",
+			"icon": "Icon",
+			"dot": "Point"
+		},
+		"defaults": {
+			"title": "Title",
+			"description": "Enter a description",
+			"time": "12:00 PM — 3:00 PM"
+		},
+		"icon type": "Step icon",
+		"show": "Show",
+		"separator": "Separator",
+		"header": "Title",
+		"description": "Description",
+		"time": "Time",
+		"filling": "Fill",
+		"circuit": "Outline",
+		"size": "Size",
+		"color": "Color",
+		"decor": "Design",
+		"stage decor": "Step icon",
+		"stage decor text": "Text"
+	},
+	"disqus": {
+		"name": "Disqus",
+		"description": " Disqus commenting service makes it easy to arrange the discussion of your blog posts",
+		"signout_question": "Disconnect account?",
+		"disqus_signout_note": "Commenting will be disabled",
+		"signout": "Disconnect",
+		"create account": "Create an account",
+		"bind_disqus": "Connect account",
+		"set up forum": "Configure feed on Disqus",
+		"access to full list of disqus settings": "Access to the full list of settings is available at the Disqus website.",
+		"select disqus forum": "Select a forum",
+		"add forum to account on settings page": "Add the site to your account %1 on the settings page in Disqus %2",
+		"for talking with users": "%1 Disqus %2 commenting service makes it easy to arrange the discussion of your blog posts",
+		"bind your disqus account to activate comments": "Connect your Disqus account to enable comments.",
+		"set up in disqus": "Configure on Disqus",
+		"comments feed": "Comments feed",
+		"create new comments feed for your site in disqus comments panel": "Create a new comments feed for your website from the %1Disqus Control Panel%2.",
+		"comments set up instructions": "%1Instructions for setting up comments%2"
+	},
+	"uButton": {
+		"name": "Button",
+		"back": "Back",
+		"description": "React button is used to design a call to action or a link",
+		"decor": "Style",
+		"design": "Design",
+		"align": "Alignment",
+		"add_design": "Add design",
+		"mobile_settings": {
+			"heading": "For mobile version",
+			"description": "More settings are coming soon"
+		},
+		"design_tabs": {
+			"common": {
+				"opaqueness": "Opacity",
+				"default": "By default",
+				"on_hover": "On hover"
+			},
+			"background": {
+				"name": "Background color",
+				"header_cover": "Overlay",
+				"stroke_name": "Stroke",
+				"stroke_thickness": "Thickness"
+			},
+			"text": {
+				"name": "Text",
+				"size": "Size"
+			},
+			"paddings": {
+				"name": "Paddings",
+				"left_right": "Left and right",
+				"top_bottom": "Top and bottom"
+			},
+			"borderRadius": {
+				"name": "Rounded corners"
+			},
+			"shadow": {
+				"name": "Shadow",
+				"blur": "Blur",
+				"spread": "Spread",
+				"small": "Small",
+				"medium": "Medium",
+				"large": "Large",
+				"custom": "Set up"
+			},
+			"animation": {
+				"name": "Animation",
+				"subhead": "Hover effects"
+			},
+			"animationSettings": {
+				"name": "Animation settings",
+				"linear": "Linear",
+				"ease": "Quick start",
+				"ease_in": "Slow start",
+				"ease_out": "Slow end",
+				"delay": "Delay",
+				"delay_val": "s",
+				"acceleration": "Easing",
+				"duration": "Period",
+				"duration_val": "s"
+			},
+			"opaqueness": {
+				"name": "Opacity",
+				"subhead": "Opacity settings"
+			},
+			"scale": {
+				"name": "Zoom",
+				"subhead": "Zoom settings"
+			},
+			"brightness": {
+				"name": "Brightness",
+				"subhead": "Brightness settings"
+			}
+		}
+	},
+	"uSpacer": {
+		"name": "Space",
+		"description": "Creates an empty space between widgets.",
+		"additional settings": "Settings",
+		"constructor borders visibility": "Show borders of all spaces in the builder",
+		"minimum height": "Min value: {{minHeight}}",
+		"height header": "Height",
+		"you can only specify numbers error": "You can use numbers only",
+		"the height must be above": "The height must be {{minHeight}}px or more",
+		"phone version": "For mobile version",
+		"tablet version": "For tablet version",
+		"reset to desktop value": "Reset to desktop settings",
+		"reset to tablet value": "Reset to tablet settings"
+	},
+	"uIcon": {
+		"name": "Icon",
+		"description": "Icons are good to highlight key points in texts.",
+		"design": {
+			"decor": "Style",
+			"size": {
+				"title": "Size",
+				"settings title": "Size"
+			}
+		},
+		"phone version": "For mobile version"
+	},
+	"uSpoiler": {
+		"name": "Spoiler",
+		"description": "Use it to structure information as a list of headers that hide or reveal additional content when selected",
+		"new item": {
+			"title": "Item name"
+		},
+		"separator": "Separator",
+		"design": {
+			"decor": "Style"
+		}
+	},
+	"uImage": {
+		"name": "Image",
+		"description": "Upload a custom image or choose one from our library.",
+		"replace": "Replace",
+		"height image": "Image height",
+		"minimum height": "Min value: {{minHeight}}",
+		"seoSettings": {
+			"heading": "SEO",
+			"subheading": "The completed attributes will help the image to show up on search engines",
+			"settings": "Settings",
+			"alt": {
+				"desc": "Describes the content of the image to search engines"
+			},
+			"title": {
+				"desc": "Additional information about the image"
+			}
+		},
+		"actionClickSettings": {
+			"heading": "Action on click",
+			"without action": "None",
+			"following to link": "Link",
+			"picture scale": "Enlarge image"
+		},
+		"caption": {
+			"title": "Caption",
+			"empty wysiwyg": "Caption text ",
+			"types": {
+				"none": {
+					"title": "Without caption"
+				},
+				"under": {
+					"title": "With caption"
+				}
+			}
+		},
+		"tooltips": {
+			"caption": "Caption",
+			"actionClick": "Action on click",
+			"seo": "SEO settings",
+			"magicWand": "Photo Editor"
+		}
+	},
+	"uSeparator": {
+		"name": "Separator",
+		"description": "Will come in handy to separate site elements from each other",
+		"design": {
+			"decor": "Style",
+			"style": "Separator style",
+			"types": {
+				"rectangular": "Solid",
+				"dashed": "Dashes",
+				"square": "Squares",
+				"dotted": "Dots",
+				"butt": "Bars"
+			},
+			"thickness": {
+				"name": "Thickness",
+				"settings title": "Thickness"
+			},
+			"shadow": {
+				"name": "Shadow",
+				"blur": "Blur",
+				"spread": "Spread",
+				"small": "Small",
+				"medium": "Medium",
+				"large": "Large",
+				"custom": "Set up"
+			},
+			"paddings": {
+				"name": "Paddings",
+				"top": "Top",
+				"bottom": "Bottom"
+			}
+		}
+	},
+	"uCard": {
+		"name": "Card",
+		"description": "Use for descriptions of products, services, features, offers, etc.",
+		"create_new_design": "Create new",
+		"for_the_tablet_version": "For tablet version",
+		"for_the_phone_version": "For mobile version",
+		"design": {
+			"name": "Design",
+			"decor": "Style",
+			"image": "Image"
+		},
+		"button": {
+			"settings": "Button settings",
+			"width": "Button width",
+			"design sub text": "You can create your custom design in the Button widget, and it will be added to this list",
+			"at all width": "Fit the card's width",
+			"according to the text": "Fit the text's width",
+			"align": "Alignment"
+		},
+		"design_tabs": {
+			"elements": {
+				"name": "Elements",
+				"show": "Show",
+				"header": "Heading",
+				"description": "Description",
+				"price": "Price",
+				"button": "Button",
+				"substrate": "Underlay"
+			},
+			"background": {
+				"name": "Background color",
+				"color": "Color",
+				"opacity": "Opacity",
+				"background image": "Background image",
+				"color overlay": "Color overlay"
+			},
+			"paddings": {
+				"name": "Paddings",
+				"along the perimeter of the card": "On all four sides of the card",
+				"inside the card": "Inside the card",
+				"under the picture": "Under the image",
+				"under the text": "Under the text"
+			},
+			"substrate": {
+				"name": "Underlay",
+				"color": "Color",
+				"opacity": "Opacity",
+				"paddings": "Paddings"
+			}
+		},
+		"icon": {
+			"name": "Icon",
+			"design_tabs": {
+				"color": "Color",
+				"size": "Size",
+				"fx": "Hover effects"
+			}
+		}
+	}
+}
